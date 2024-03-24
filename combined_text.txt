@@ -84,23 +84,23 @@ the Elimination of all Forms of Discrimination against Women, which has been rat
 1993 by the Government of India;  
 AND WHEREA S it is expedient to make provisions for giving effect to the said Convention for 
 protection of women against sexual harassment at workplace.  
-BE it enacted by Parliament in the Sixty -fourth Year of the Republic of India as follows : ï¿½ 
+BE it enacted by Parliament in the Sixty -fourth Year of the Republic of India as follows : — 
 CHAPTER I  
 PRELIMINARY  
-1. Short title , extent and com mencement .ï¿½(1) This Act may be called the  Sexual Harassment of 
+1. Short title , extent and com mencement .—(1) This Act may be called the  Sexual Harassment of 
 Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.  
 (2) It extends to the w hole of India.  
 (3) It shall come into force on such date1 as the Central Government may, by notification in the 
 Official Gazette, appoint.  
-2. Definitions .ï¿½In this Act, unless the context otherwise requires, ï¿½ 
-(a) ï¿½aggrieved womanï¿½ means ï¿½ 
+2. Definitions .—In this Act, unless the context otherwise requires, — 
+(a) “aggrieved woman” means — 
 (i) in relation to a workplace, a woman, of any age whether employed or not, who alleges to 
 have been subjected to any act of sexual harassment by the respondent;  
 (ii) in relation to dwelling place or house, a woman of any age who is employed in such a 
 dwelling place or house;  
-(b) ï¿½appropriate Governmentï¿½ means ï¿½ 
+(b) “appropriate Government” means — 
 (i) in relation to a workplace which is established, owned, controlled or wholly or 
-substantially financed by funds provided directly or indirectly ï¿½  
+substantially financed by funds provided directly or indirectly —  
 (A) by the Central Government or the Union territory administration, the Central 
 Government;  
 (B) by the State Government, the State Government;  
@@ -110,19 +110,19 @@ Government;
 II, sec. 3( ii). 4 
  (ii) in relation  to any workplace not covered under sub -clause (i) and falling within its 
 territory, the State Government;  
-(c) ï¿½Chairpersonï¿½ means the Chairperson of the Local Complaints Committee nominated under 
+(c) “Chairperson” means the Chairperson of the Local Complaints Committee nominated under 
 sub-section (1) of section 7; 
- (d) ï¿½District Officerï¿½ means on of ficer notified under section 5;  
-(e) ï¿½domestic workerï¿½ means a woman who is employed to do  the household work in any 
+ (d) “District Officer” means on of ficer notified under section 5;  
+(e) “domestic worker” means a woman who is employed to do  the household work in any 
 household for remuneration whether in cash or kind, either directly or through any agency on a 
 temporary, permanent, part time or full time basis, but does not include any member of the family of 
 the employer;  
- (f) ï¿½employeeï¿½ means a person employed at a workplace for any work on regular, temporary, ad 
+ (f) “employee” means a person employed at a workplace for any work on regular, temporary, ad 
 hoc or daily wage basis, either directly or through an agent, including a contractor, with or, without 
 the knowledge of the principal employer, whether for remunerati on or not, or working on a voluntary 
 basis or otherwise, whether the terms of employment are express or implied and includes a co -worker, 
 a contract worker, probationer, trainee, apprentice or called by any other such name;  
- (g) ï¿½employerï¿½ means ï¿½ 
+ (g) “employer” means — 
 (i) in re lation to any department, organisation, undertaking, establishment, enterprise, 
 institution, office, branch or unit of the appropriate Government or a local authority, the head of 
 that department, organisation, undertaking, establishment, enterprise, insti tution, office, branch or 
@@ -130,7 +130,7 @@ unit or such other officer as the appropriate Government or the local authority,
 be, may by an order specify in this behalf;  
 (ii) in any workplace not covered under sub -clause (i), any person responsible for the 
 management, supervision and control of the workplace.  
-Explanation . ï¿½For the purposes of this sub -clause ï¿½managementï¿½ includes the person or 
+Explanation . —For the purposes of this sub -clause “management” includes the person or 
 board or committee responsible for formulation and administration of polices for such 
 organisation;  
 (iii) in relatio n to workplace covered under sub -clauses (i) and (ii), the person discharging 
@@ -139,24 +139,24 @@ contractual obligations with respect to his or her employees;
 from the employment of domestic worker, irrespective of the number, time period or type of such 
 worker employed, or the nature of the employment or activities perfor med by the domestic 
 worker;  
-(h) ï¿½Internal Committeeï¿½ means an Internal Complaints Committee constituted under section 4;  
-(i) ï¿½Local Committeeï¿½ means the Local Complaints Committee constituted under section 6;  
-(j) ï¿½Memberï¿½ means a Member of the Internal Committee or the Local  Committee, as the case 
+(h) “Internal Committee” means an Internal Complaints Committee constituted under section 4;  
+(i) “Local Committee” means the Local Complaints Committee constituted under section 6;  
+(j) “Member” means a Member of the Internal Committee or the Local  Committee, as the case 
 may be;  
-(k) ï¿½prescribedï¿½ means  prescribed by rules made under this Act;  
-(l) ï¿½Presiding Officerï¿½ means the Presiding Officer of the Internal Complaints Committee 
+(k) “prescribed” means  prescribed by rules made under this Act;  
+(l) “Presiding Officer” means the Presiding Officer of the Internal Complaints Committee 
 nominat ed under sub -section (2) of section 4;  
-(m) ï¿½respondentï¿½ means a person against whom the aggrieved woman has made a complaint 
+(m) “respondent’ means a person against whom the aggrieved woman has made a complaint 
 under section 9;  
   5 
- (n) ï¿½sexual harassmentï¿½ includes any one or more of the followi ng unwelcome acts or behavior 
-(whether directly or by implication) namely: ï¿½ 
+ (n) “sexual harassment” includes any one or more of the followi ng unwelcome acts or behavior 
+(whether directly or by implication) namely: — 
 (i) physical contact and advances; or  
 (ii) a demand or  request for sexual favours; or  
 (iii) making sexually coloured remarks; or  
 (iv) showing pornography; or  
 (v) any other unwelcome physical, verbal or non -verbal conduct of sexual nature;  
-(o) ï¿½workplaceï¿½ includes ï¿½ 
+(o) “workplace” includes — 
 (i) any department, organisation, undertaking, establishment, enterprise, institution, office, 
 branch or unit which is established, owned, controlled or who lly or substantially fi nanced by 
 funds provided directly or indirectly by the appropriate Government or the local authority or a 
@@ -171,14 +171,14 @@ residential or n ot used for training, sports or other activities relating there
 (v) any place visited by the employee arising out of or during the course of employment 
 including transportation by the employer for undertaking such journey;  
 (vi) a dwelling place or a house;  
-(p) ï¿½unorganis ed sectorï¿½ in relation to a workplace means an enterprise owned by individuals or 
+(p) “unorganis ed sector” in relation to a workplace means an enterprise owned by individuals or 
 self-employed workers and engaged in the production or sale of goods or providing service of any 
 kind whatsoever, and where the ente rprise employs workers, the number of such workers is less than 
 ten. 
-3. Prevention of sexual harassment .ï¿½(1) No woman shall be subjected to sexual harassment at any 
+3. Prevention of sexual harassment .—(1) No woman shall be subjected to sexual harassment at any 
 workplace.  
 (2) The following circumstances, among other circumstances, if it occurs, or is present in relation to 
-or connected with any act or behavior of sexual harassment may amount to sexual harassment: ï¿½ 
+or connected with any act or behavior of sexual harassment may amount to sexual harassment: — 
 (i) implied or explicit promise of preferential treatment in he r employment; or  
 (ii) implied or explicit threat of detrimental treatment in her employment ; or  
 (iii) implied or explicit threat about her present or future employment status; or  
@@ -187,13 +187,13 @@ environment for her; or
 (v) humiliating treatment likely to affect her health or safety.  
 CHAPTER II  
 CONSTITUTION OF INTERNAL COMPLAINTS COMMITTEE  
-4. Constitution of Internal Complaints  Committee .ï¿½ (1) Every employer of a workplace shall, by 
-an order in writing, constitute a Committee to be known as the ï¿½Internal Complaints Committeeï¿½ : 6 
+4. Constitution of Internal Complaints  Committee .— (1) Every employer of a workplace shall, by 
+an order in writing, constitute a Committee to be known as the “Internal Complaints Committee” : 6 
  Provided that where the offices or administrative units of the workplace are located at different places 
 or divisional or sub -divisional level, the Internal Committee shall be constituted at all administrative units 
 or offices.  
 (2) The Internal Committees  shall consist  of  the following members to be nominated by the 
-employer, namely:  ï¿½ 
+employer, namely:  — 
 (a) a Presiding Officer who shall be a woman employed at a senior level at workplace from 
 amongst the employees:  
 Provided that in case a senior level woman employee is not available, the Presiding Officer shall 
@@ -211,7 +211,7 @@ period, not exceeding three years, fr om the date of their nomination  as may be
 (4) The Member appointed from amongst the non -governmental o rganisations or associations shall be 
 paid such fees or allowances for holding the proceedings of the Internal Committee, by the employer, as 
 may be prescribed.  
-(5) Where the Pr esiding Officer or any Member of the Internal Committee, ï¿½ 
+(5) Where the Pr esiding Officer or any Member of the Internal Committee, — 
 (a) contravenes  the provisions of section 16; or  
  (b) has been convicted for an offence or an inquiry into an offence under any law for the time 
 being in force is pending against him; or  
@@ -224,13 +224,13 @@ vacancy so created or any casual  vacancy shall be filled by fresh nomination in
 provisions of this section.  
 CHAPTER III  
 CONSTITUTION OF LOCAL COMPLAINTS COMMITTEE  
-5. Notification of District Officer .ï¿½The appropriate Government may notify a District Magistrate 
+5. Notification of District Officer .—The appropriate Government may notify a District Magistrate 
 or Additional District Magistrate or the Collector or Deputy Collector  as a District Officer for every 
 District to exercise powers or discharge functions under this Act.  
-6. Constitution and jurisdiction of  1[Local Committee] .ï¿½(1) Every District Officer shall constitute 
-in the district concerned, a committee to be known as the ï¿½1[Local Committee ]ï¿½ to receive complaints of 
+6. Constitution and jurisdiction of  1[Local Committee] .—(1) Every District Officer shall constitute 
+in the district concerned, a committee to be known as the “1[Local Committee ]” to receive complaints of 
                                                            
-1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for ï¿½Local Complaints Committeeï¿½ (w.e.f. 6 -5-2016).  7 
+1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for “Local Complaints Committee” (w.e.f. 6 -5-2016).  7 
  sexual harassment from establishments where the 1[Internal Committee ] has not been constituted due to 
 having less than ten workers or if the complaint is against the employer himself.  
 (2) The District Officer shall designate one nodal officer in every block, taluka and  tehsil in rural or 
@@ -238,8 +238,8 @@ tribal area and ward or municipality in the urban area, to receive complaints an
 concerned 2[Local Committee ] within a period of seven days.  
 (3) The jurisdiction of the 2[Local Committee ] shall extend to the areas of the district where it is 
 constituted . 
-7. Composition, tenure and other terms and conditions of 2[Local Committee ].ï¿½(1) The 2[Local  
-Committee ] shall consist of the following members to be nominated by the District Officer, namely: ï¿½ 
+7. Composition, tenure and other terms and conditions of 2[Local Committee ].—(1) The 2[Local  
+Committee ] shall consist of the following members to be nominated by the District Officer, namely: — 
 (a) a Chairperson to be nominated from amongst the eminent women in the field of social work 
 and committed to the cause of women;  
 (b) one Member to be nominated from amongst the women working in block, taluka or tehsil or 
@@ -256,7 +256,7 @@ Central Government, from time to time;
 district, shall be a member ex officio . 
 (2) The Chairperson and every Member of the Local Committee shall hold office for such period, not 
 exceeding three years, form the date of their appointment as may be specified by the District Officer.  
-(3) Where the Chairperson or any  Member of the 2[Local Co mmittee] ï¿½ 
+(3) Where the Chairperson or any  Member of the 2[Local Co mmittee] — 
 (a) contravenes t he provisions of section 16; or  
 (b) has been convicted for an offence or an inquiry into an offence under any law for the time 
 being in force is pending against him; or  
@@ -270,11 +270,11 @@ this section.
 (4) The Chairperson or Members of the Local Committee other than the Members no minated under 
 clauses (b) and (d) of sub -section (1) shall be entitled to such fees or allowances for holding the 
 proceedings of the Local Committee as may be prescribed.  
-8. Grants and audit .ï¿½(1) The Central Government may, after due appropriation made by Parliament 
+8. Grants and audit .—(1) The Central Government may, after due appropriation made by Parliament 
 by law in this behalf, make to the State Government grants of such sums of money as the Central 
                                                            
-1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for ï¿½Internal Complaints Committe eï¿½ (w.e.f. 6 -5-2016).  
-2. Subs. by  s. 3 and the Second Schedule,  ibid., for ï¿½Local Complaints Committeeï¿½ (w.e.f. 6 -5-2016).  8 
+1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for “Internal Complaints Committe e” (w.e.f. 6 -5-2016).  
+2. Subs. by  s. 3 and the Second Schedule,  ibid., for “Local Complaints Committee” (w.e.f. 6 -5-2016).  8 
  Government my think fit, for being utilised for the payment of fees or allowances referre d to in sub -
 section (4) of section 7.  
 (2) The State Government may set up an agency and transfer the grants made under sub -section (1) to 
@@ -284,10 +284,10 @@ or allowances referred to in sub -section (4) of section 7.
 (4) The accounts of the agency referred to in sub -section (2) shall be maintained and audited in such 
 manner as may, in consultation with the Accountant General of the State, be prescribed and the person 
 holding th e cust ody of the accounts of the agency shall furnish, to the State Government, before such 
-date, as may be prescribed, its audited copy of accounts together with auditorsï¿½ report thereon.  
+date, as may be prescribed, its audited copy of accounts together with auditors’ report thereon.  
 CHAPTER IV  
 COMPLAINT  
-9. Complaint of sexual harassment .ï¿½(1) Any aggrieved woman  may make, in writing, a complaint 
+9. Complaint of sexual harassment .—(1) Any aggrieved woman  may make, in writing, a complaint 
 of sexual harassment at workplace to the Internal Committee  if so constituted , or the Local Committee, in 
 case it is not so constituted, within a period of three months from the date of  incident and in case of a 
 series of incidents, within a period of three months from the date of  last incident:  
@@ -301,7 +301,7 @@ period.
 (2) Where the aggrieved woman is unable to make a complaint on account of   her physical or mental 
 incapacity or death or otherwise, her legal heir or such other person as may be prescribe d may make a 
 complaint under this section.  
-10. Conciliation. ï¿½(1) The Internal Committee or, as the case may be, the Local Committee, may, 
+10. Conciliation. —(1) The Internal Committee or, as the case may be, the Local Committee, may, 
 before initiating an inquiry under section 11 and at the request of the aggrieved woman take steps to settle 
 the matter between her and the respondent through conciliation:  
 Provided that no monetary settlement shall be made as a basis of conciliation.  
@@ -312,7 +312,7 @@ employer or the District Officer to take action as specified in the recommendati
 the settlement as recorded under sub -section (2) to the aggrieved woman and the respondent.  
 (4) Where a settlement is arrived at under sub -section (1), no further inquiry shall be conducted by the 
 Internal Committee or the Local Committee, as the case may be.  
-11. Inquiry into complaint. ï¿½ (1) Subject  to the provision s of section 10, the Internal Committee or 
+11. Inquiry into complaint. — (1) Subject  to the provision s of section 10, the Internal Committee or 
 the Local Committee, as the case may be, shall, where the respondent is an employee, proceed to make 
 inquiry into the complaint in accordance with the provisions of the service rules applicable to the 
 respondent an d where no such rules  exist, in such manner as may be prescribed or in case of a domestic 
@@ -332,16 +332,16 @@ consider appropriate, to the aggrieved woman by the respondent, having regard to
 section 15.  
 (3) For the purpose of making an inquiry under sub -section (1), the Internal Committee or the Local 
 Committee, as the case may be, shall have the  same powers as are vested in a civil court the Code of Civil 
-Procedure, 1908 (5 of 1908) when trying a suit in respect of the following matters, namely: ï¿½ 
+Procedure, 1908 (5 of 1908) when trying a suit in respect of the following matters, namely: — 
 (a) summoning and enforcing the attendance of any person and examining him on oath;  
 (b) requiring  the discovery and production of documents; and  
 (c) any other matter which may be prescribed.  
 (4) The inquiry under sub -section (1) shall be completed within a period of ninety days.  
 CHAPTER V  
 INQUIRY INTO COMPLAINT  
-12. Action during pendency of inquiry .ï¿½(1) During the pendency of an inquiry on a written 
+12. Action during pendency of inquiry .—(1) During the pendency of an inquiry on a written 
 request made by the aggrieved woman,  the Internal Committee or the local Committee, as the case may 
-be, may recommend to the employer to ï¿½ 
+be, may recommend to the employer to — 
 (a)  transfer the aggrieved woman or the respondent to any other wor kplace; or  
 (b) grant leave to the aggrieved woman up to a period of three months; or  
 (c) grant such other relief to the aggrieved woman a may be prescribed.  
@@ -351,7 +351,7 @@ would be otherwise entitled.
 under su b-section (1), the employer shall implement the recommendations made under sub -section (1) 
 and send the report of such implementation to the Internal Committee or the Local Committee, as the case 
 may be.  
-13. Inquiry report .ï¿½(1) On the completion of an inquiry under this Act, the Internal Committee or 
+13. Inquiry report .—(1) On the completion of an inquiry under this Act, the Internal Committee or 
 the Local Committee , as the case may be, shall provide a report of its findings to the employer, or as the 
 case may be, the District Officer within a period of ten days from the date of completion of the inquiry 
 and such repo rt be made available to the concerned parties.  
@@ -360,7 +360,7 @@ conclusion that the allegation against the respondent has not been proved, it sh
 employ er and the  District Officer that  no action is required to be taken in the matter.  10 
  (3) Where the Internal Committee or the Local Committee, as the case may be, arrives at the 
 conclusion that the allegation against the respondent has been proved, it shall recommend to  the employer 
-or the District Officer, as the case may be ï¿½ 
+or the District Officer, as the case may be — 
 (i) to take action for  sexual harassment as a misconduct in accordance with the provisions of the 
 service rules applicable to the respondent or where no such service rules have been made, in such 
 manner as may be prescribed;  
@@ -375,7 +375,7 @@ Internal Committee or as, the case may be, the Local Committee may forward the o
 of the sum as an arrear of land revenue to the concerned District Officer.  
 (4) The employer or the District Officer shall act upon the recommendation wit hin sixty days of its 
 receipt by him.  
-14. Punishment for false or malicious complaint and false evidence. ï¿½(1) Where the Internal 
+14. Punishment for false or malicious complaint and false evidence. —(1) Where the Internal 
 Committee or the Local Committee, as the case may be, arrives at a conclusion that the allegation against 
 the respondent is mal icious or the aggrieved woman or any other person making the complaint has made 
 the complaint knowing it to  be false or the aggrieved woman or any other person making the complaint 
@@ -393,16 +393,16 @@ that during the inquiry any witness has given false evidence or produced any for
 document, it may recommend to the employer of the witness or  the District Officer, as the case may be, to 
 take action in accordance with the provisions of the service rules applicable to the said witness or where 
 no such service rules exist, in su ch manner as may be prescribed.  
-15. Determination of compensation. ï¿½For the purpose of determining  the sums to be paid to the 
+15. Determination of compensation. —For the purpose of determining  the sums to be paid to the 
 aggrieved woman under clause (ii) of sub -section (3) of section 13, the Internal Committee or the Local 
-Committee, as the case may be, shall have regard to ï¿½ 
+Committee, as the case may be, shall have regard to — 
 (a) the mental trauma, pain, suffering and emotional distress caused to the aggrieved woman;  
 (b) the loss in the career opportunity due to the incident of sexual harassment;  
 (c) medical expenses incurred by the victim for physical or psychiatric treatment;  
 (d) the income and financial status of the respondent;  
 (e) feasibility of such payment in lump sum or in instalments.  11 
  16. Prohibition of publication or making known contents of co mplaint and inquiry 
-proceedings. ï¿½Notwithstan ding anything contained in the Right to Information Act, 2005  (22 of 2005) , 
+proceedings. —Notwithstan ding anything contained in the Right to Information Act, 2005  (22 of 2005) , 
 the contents of the  complaint made under section 9, the identity and addresses of the aggrieved woman, 
 respondent and witnesses, any information relating to conciliation and inquiry proceedings,  
 recommendations of the Internal Committee or the Local Committee, as the case may be, and the action 
@@ -411,12 +411,12 @@ communicated or made known to the public, press and media in any manner:
 Provided that information may be disseminated regarding the justice secured to any vicitim of sexual 
 harassment under this Act without disclosing the name, address, id entity or any other particulars  
 calculated to lead to the identification of the aggrieved w oman and witnesses.  
-17. Penalty for publication or making known contents of complaint and inquiry proceedings .ï¿½ 
+17. Penalty for publication or making known contents of complaint and inquiry proceedings .— 
 Where any person entrusted with the duty to handle or deal with the complaint, inquiry or any 
 recommendations or action to be taken under the provisions of this Act, contravenes the provision s of 
 section 16, he shall be liable for penalty in accordance with the provisions of the service rules applicable 
 to the said person or where no such service rules exist, in such manner as may be prescribed.  
-18. Appeal. ï¿½(1) Any person aggrieved from the recommendations made under sub -section (2) of 
+18. Appeal. —(1) Any person aggrieved from the recommendations made under sub -section (2) of 
 section 13 or under clause (i) or clause (ii) of sub -section (3) of section 13 or sub -section (1) or sub -
 section (2) of section 14 or section 17 or non -implementat ion of such recommendations may prefer an 
 appeal to the court or tribunal in accordance with the provisions of the service rules applicable to the said 
@@ -427,7 +427,7 @@ prescribed.
 recommendations.  
 CHAPTER VI  
 DUTIES OF EMPLOYER  
-19. Duties of employer. ï¿½ Every  employer shall ï¿½ 
+19. Duties of employer. — Every  employer shall — 
 (a) provide a safe working environment at the workplace with shall include safety from the 
 persons coming into contact at the workplace;  
 (b) display  at any conspicuous place in the workplace, the penal consequences of sexual 
@@ -451,33 +451,33 @@ misco nduct;
 (j) monitor the timely submission of reports by the Internal Committee.  
 CHAPTER VII  
 DUTIES AND POWERS OF DISTRICT OFFICER  
-20. Duties and powers of District Officer. ï¿½The District Officer shall , ï¿½ 
+20. Duties and powers of District Officer. —The District Officer shall , — 
 (a) monitor  the timely submission of report furnished by the Local Committee;  
 (b) take such measures as may be necessary for engaging non -governmental organisations for 
 creation of awareness on sexual harassment and the rights of the women.  
 CHAPTER VIII  
 MISCELLANEOUS  
-21. Committee to submit annual report .ï¿½ (1) The Internal Committee or the Local Committee, as 
+21. Committee to submit annual report .— (1) The Internal Committee or the Local Committee, as 
 the case may be, shall in each calendar year prepare, in such form and at such time as may be prescribed, 
 an annual report and submit the same to the employer an d the District Officer.  
 (2) The District Officer shall forward a brief report on the annual reports received under sub -sectio n 
 (1) to the State Government.  
-22. Employer to include information in annual report .ï¿½The employer shall include in its report 
+22. Employer to include information in annual report .—The employer shall include in its report 
 the number of cases filed, if any, and their disposal under this Act in the annual report of his organisation 
 or where no such report is required to be prepared, intimate such number of cases, if any,  to the District 
 Officer.  
-23. Appropriate Government to mon itor implementation and maintain data .ï¿½The appropriate 
+23. Appropriate Government to mon itor implementation and maintain data .—The appropriate 
 Government shall monitor the implementation of this Act and maintain date on the number of cases filed 
 and disposed of in respect of all cases of sexual harassment at workplace.  
-24. Appropriate Government to take measures to publicise the Act .ï¿½The appropriate 
-Government may, subject to the availability of financial and other resources, ï¿½ 
+24. Appropriate Government to take measures to publicise the Act .—The appropriate 
+Government may, subject to the availability of financial and other resources, — 
 (a) develop relevant information, education, communication and training materials, and organise 
 awareness prog rammes, to advance the understanding of the  public of the provisions of this Act 
 providing for protection against sexual harassment of woman at workplace;  
 (b) formulate orientation and training programmes for the members of the 1[Local Committee ]. 
-25. Power to call for information and inspection of records. ï¿½(1) The appropriate Government, on 
+25. Power to call for information and inspection of records. —(1) The appropriate Government, on 
 being satisfied that it is necessary in the public interest or  in the interest of women employees at a 
-workplace to do so, by order in writing, ï¿½ 
+workplace to do so, by order in writing, — 
 (a) call upon any employer or District Officer to furnish in writing such information relating to 
 sexual harassment as it may  require;  
 (b) authorise any officer to make inspection of the records and workplace in relation to sexual 
@@ -486,16 +486,16 @@ in the order.
 (2) Every employer and District Officer shall produce on demand before the officer making the 
 inspection all information, records and other documents in his custody hav ing a bearing on the subject 
 matter of such inspection.  
-26. Penalty for non -compliance with provisions of Act .ï¿½(1) Where the employer fails to ï¿½ 
+26. Penalty for non -compliance with provisions of Act .—(1) Where the employer fails to — 
 (a) constitute an Internal Committee under sub -section (1) of section 4;  
                                                            
-1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for ï¿½Local Complaints Committeeï¿½ (w.e.f. 6 -5-2016).  13 
+1. Subs. by Act 23 of 2016, s. 3 and the Second Schedule, for “Local Complaints Committee” (w.e.f. 6 -5-2016).  13 
  (b) take action under sections 13, 14 and 22; and  
 (c) contravenes or attempts to contravene or abets contravention of other provisions of this Act or 
 any rules made thereunder,  
 he shall be punishable with fine which may extend to fifty thousand rupees.  
 (2) If any employer, after having been previously convicted of an offence punishable under this Act 
-subsequently commits and is convicted of the same offence, he shall be liable to ï¿½ 
+subsequently commits and is convicted of the same offence, he shall be liable to — 
 (i) twice  the punishment, which might have been imposed on a first conviction, subject to the 
 punishment being maximum provided for the same offence:  
 Provided that in case a higher punishment is prescribed under any other law for the time being in 
@@ -504,18 +504,18 @@ of the same while awarding the punishment;
 (ii) cancellation, of his licence or withdrawal, or non -renewal, or approval, or cancellation of the 
 registration, as the case m ay be, by the Government or local authority required for carrying on his 
 business or activity.  
-27. Cognizance of offence by courts. ï¿½(1) No court shall take cognizance of any offence punishable 
+27. Cognizance of offence by courts. —(1) No court shall take cognizance of any offence punishable 
 under this Act or any rules made thereunder, save on a complaint made by the aggrieved woman or any 
 person authorised by the Internal Committee or Local Committee in this behalf.  
  (2) No court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class 
 shall try any offence punish able under this Act.  
 (3) Every offence under this Act shall be non -cognizable.  
-28. Act not in derogation of any other law .ï¿½The prov isions of this Act shall be in addition to and 
+28. Act not in derogation of any other law .—The prov isions of this Act shall be in addition to and 
 not in derogation of the provisions of any other law for the time being in for ce. 
-29. Power of appropriate Government to make rules. ï¿½(1) The Central Government  may, by 
+29. Power of appropriate Government to make rules. —(1) The Central Government  may, by 
 notification in the Official  Gazette, make rules for carrying out the provisions of this Act.  
 (2) In particular and without prejudice to the generality of the foregoing power, such rules may 
-provide for all or any of the following matters, namely: ï¿½ 
+provide for all or any of the following matters, namely: — 
 (a) the fees or allowances to be paid to the Members under sub -section (4) of section 4;  
 (b) nomination  of members under clause (c) of sub -section (1) of section 7;  
 (c) the fees or allowances to be paid to the Chairperson, and Members under sub -section (4) of 
@@ -544,7 +544,7 @@ under that rule.
 (4) Any rule made under sub -section (4) of section 8 by the State Government shall be laid, as soon as 
 may be after it is made, before each House of the State Legislature where it consists of two Houses, or 
 where such Legislature consists of one House, before that House.  
-30. Power to remove dif ficulties.ï¿½ (1) If any difficulty arises in giving effect to the provisions of 
+30. Power to remove dif ficulties.— (1) If any difficulty arises in giving effect to the provisions of 
 this Act, the Central Government may, by order published in the Official Gazette, make such provisions, 
 not inconsistent with the provisions of this Act, as may appear to it to be necessary for removing the 
 difficulty:  
@@ -564,18 +564,18 @@ WHEREAS  sati or the burning or burying alive of widows or women is revolting to
 human nature and is nowhere enjoined by any of the religions of India as an imperative duty;  
 AND WHEREAS  it is necessary to take more effective measures to prevent the commission of sati and 
 its glorification;  
-BE it enacted by Parliament in the Thirty -eighth Year of the Republic of India as follows: ï¿½ 
+BE it enacted by Parliament in the Thirty -eighth Year of the Republic of India as follows: — 
 PART  I 
 PRELIMINARY  
-1. Short title, extent and commencement .ï¿½(1) This Act may be called the Commis sion of Sati 
+1. Short title, extent and commencement .—(1) This Act may be called the Commis sion of Sati 
 (Prevention) Act, 1987.  
 (2) It extends to the whole of India except the State of Jammu and Kashmir.  
 (3) It shall come into force in a State on such date1 as the Central Government may, by notification in 
 the Official Gazette, appoint, and different dates m ay be appointed for different States.  
-2. Definitions .ï¿½(1) In this Act, unless the context otherwise requires, ï¿½ 
-(a) ï¿½Codeï¿½ means the Code of Criminal Procedure, 1973 (2 of 1974);  
-(b) ï¿½glorification ï¿½, in relation to sati, whether such sati, was committed before or after the 
-commencement of this Act,  includes, among other things, ï¿½ 
+2. Definitions .—(1) In this Act, unless the context otherwise requires, — 
+(a) “Code” means the Code of Criminal Procedure, 1973 (2 of 1974);  
+(b) “glorification ”, in relation to sati, whether such sati, was committed before or after the 
+commencement of this Act,  includes, among other things, — 
 (i) the observance of any ceremony or the taking out of a procession in connection with the 
 commission of sati; or 
 (ii) the supporting, justifying or propagating the practice of sati in any manner; or  
@@ -584,14 +584,14 @@ commission of sati; or
 structure or the  carrying on of any form of worship or the performance of any ceremony thereat, 
 with a view to perpetuate the honour of, or to preserve the memo ry of, a person who has 
 committed sati; 
-(c) ï¿½satiï¿½ means the act of burning or burying alive of ï¿½ 
+(c) “sati” means the act of burning or burying alive of — 
 (i) any widow along with the body of her deceased husband or any other relative or with any 
 article, object or thing associated with the husband or such relative; or  
 (ii) any woman along with the body of any of her relatives, irrespective of whether such 
 burning or burying is claimed to be voluntary on the part of the widow or the woman or 
 otherwise;  
-(d) ï¿½Special Court ï¿½ means a Special Court constituted un der section 9;  
-(e)  ï¿½templeï¿½ includes any building or other structure, whether roofed or not, con structed or made 
+(d) “Special Court ” means a Special Court constituted un der section 9;  
+(e)  “temple” includes any building or other structure, whether roofed or not, con structed or made 
 to preserve the memory of a person in respect of whom sati has been committed or used or intended 
 to be used for the carrying on of any form of worship or for the observance of any ceremony in 
 connection with such commis sion.  
@@ -603,20 +603,20 @@ sec. 3( i).    2
 Indian Penal Code or the Code.  
 PART  II 
 PUNISHMENTS FOR OFFENCES RELATING TO SATI  
-3. Attempt to commit sati.ï¿½Notwithstanding anything contained  in the Indian Penal Code             
+3. Attempt to commit sati.—Notwithstanding anything contained  in the Indian Penal Code             
 (45 of 1860) , whoever attempts to commit sati and does any act towards such commission shall be 
 punishable  with imprisonment for a term which may extend to six months or with fine or with both:  
 Provided that the Special  Court trying an offence under this section shall, before convicting any 
 person, take into consideration the circumstances leading to the commission of the offence, the act 
 committed, the state or mind of the person charged of the offence at the time of th e commission of the act 
 and al l other rele vant factors.  
-4. Abetment of sati.ï¿½(1) Notwithstanding anything contained in the Indian Penal Code (45 of 1860), 
+4. Abetment of sati.—(1) Notwithstanding anything contained in the Indian Penal Code (45 of 1860), 
 if any person commits sati, whoever abets the commission of such sati, either directly or indirectly,  shall 
 be punishable with death or imprisonment for life and shall also be liable to fine.  
 (2) If any person attempts to commit sati, whoever abets such attempt, either directly or indirectly, 
 shall be punishable with imprisonment for life and shall also be liable to fine.  
-Explanation .ï¿½For the purposes of this section, any of the following acts or the like shall also be 
-deemed to be an abetment, namely: ï¿½ 
+Explanation .—For the purposes of this section, any of the following acts or the like shall also be 
+deemed to be an abetment, namely: — 
 (a) any inducement to a widow or woman to get her burnt or buried alive along with the body of 
 her dece ased husband or with any other relative or with any article, object or thing associated with the 
 husband or such relative, irrespective of whether she is in a fit state of mind or is labouring under a 
@@ -634,13 +634,13 @@ or to any ceremony  connected with it;
 alive;  
 (g) obstructing, or interfering with, the police in the discharge of its duties of taking any steps to 
 prevent the commission of sati. 
-5. Punishment for glorification of sati.ï¿½Whoever does any act for the glorification of sati shall be 
+5. Punishment for glorification of sati.—Whoever does any act for the glorification of sati shall be 
 punishable with imprisonment for a term which shall not be less than one year but which may extend to 
 seven years and with fine which shall not be less than five thousand rupees but which ma y extend to thirty 
 thousand rupees.  
 PART  III 
 POWERS  OF COLLECTOR  OR DISTRICT  MAGISTRATE  TO PREVENT  OFFENCES  RELATING TO SATI  
-6. Power to prohibit certain acts .ï¿½(1) Where the Collector or the District Magistrate is of the 
+6. Power to prohibit certain acts .—(1) Where the Collector or the District Magistrate is of the 
 opinion that sati or any abetmen t thereof is being,  or is about to be committed, he may, by order, prohibit 
 the doing of any act towards the commission of sati by any person in any area or areas specified in the 
 order.      3 
@@ -650,7 +650,7 @@ manner of sati by any person in any area or areas specified in the order.
 contravention is not punishable under any other provision of this Act, be punishable with imprisonment 
 for a term which shall not be less than one year but which may extend to seven years and with fine which 
 shall not be less than five thousand rupees but which may extend to thirty thousand rupees.  
-7. Power to re move certain temples or other structures .ï¿½(1) The State Government may, if it is 
+7. Power to re move certain temples or other structures .—(1) The State Government may, if it is 
 satisfied that in any temple or other structure which has been in existence for not less than twenty years, 
 any form of worship or the performance of any ceremony is carried o n with a view to perpetuate the 
 honour of, or to preserve the memory of, any person in respect of whom sati has been committed, by 
@@ -663,7 +663,7 @@ whom sati has been committed, by order, direct the removal of such temple or oth
 Government or the Collector or the District Magistrate, as the case may be, shall cause the temple or other 
 structure to be removed through a police officer not below the rank of a Sub -Inspector at the cost of the 
 defaulter.  
-8.  Power to seize certain properties .ï¿½(1) Where the Collector or the District Magistrate has reason 
+8.  Power to seize certain properties .—(1) Where the Collector or the District Magistrate has reason 
 to believe that any funds or property have been collected or acquired for the purpose of glorification of 
 the commission of any sati or which may be found under circumstances which create suspicio n of the 
 commission of any offence under this Act, he may seize such funds or property.  
@@ -672,7 +672,7 @@ Special Court, if any, constituted to try any offence in relatio n to which such
 collected or acquired and shall await the orders of such Special Court as to the disposal of the same.  
 PART  IV 
 SPECIAL  COURTS  
-9. Trial of offences under this Act .ï¿½(1) Notwithstanding anything contained in the Code, all 
+9. Trial of offences under this Act .—(1) Notwithstanding anything contained in the Code, all 
 offences under this Act shall be triable only by a Special Court constituted under this section.  
 (2) The State Government shall, by notification in the Official Gazette , constitute one or more Special 
 Courts for the trial of offences under this Act and  every Special Court shall exercise jurisdiction in respect 
@@ -681,7 +681,7 @@ of the whole or such part of the State as may be specified in the notification.
 the concurrence o f the Chief Justice of the High Court.  
 (4) A person shall not be qualified for appointment as a Judge of a Special Court unless he is, 
 immediately before such appointment, a Sessions Judge or an Additional Sessions Judge in any State.  
-10. Special Public Prosecutors .ï¿½(1) For every Special Court, the State Government shall appoint a 
+10. Special Public Prosecutors .—(1) For every Special Court, the State Government shall appoint a 
 person to be a Special Public Prosecutor.  
 (2) A person shall be eligible to be appointed as a Special Public Prosecutor under this section only if 
 he had been in  practice as an advocate for not less than seven years or has held any post for a period of 
@@ -689,14 +689,14 @@ not less than seven years under the State requiring special knowledge of law.
 (3) Every person appointed as a Special Public Prosecutor under this section shall be deemed to be a 
 Public Prosecutor within the meaning of clause ( u) of section 2 of the Code and the provisions of the 
 Code shall have effect accordingly.      4 
- 11. Procedure and powers of Special Courts .ï¿½(1) A Special Court may take cognizance of any 
+ 11. Procedure and powers of Special Courts .—(1) A Special Court may take cognizance of any 
 offence, without the accused being committed to it for trial, upon receiving a complaint of facts which 
 constitute such offence, or upon a police report of such facts.  
 (2) Subject to the other provisions of this Act, a Special Court shall, for the purpose of th e trial of any 
 offence, have all the  powers of a Court of Session and shall try such offence as if it were a Court of 
 Session, so far as may be, in accordance with the procedure prescribed in the Code for trial before a Court 
 of Session.  
-12. Power of Special Court with respect to other offences .ï¿½(1) When trying any offence under 
+12. Power of Special Court with respect to other offences .—(1) When trying any offence under 
 this Act, a Special Court may also try any other offence with which the accused may, under the Code, be 
 charged at the same trial if the offence is connected with such other offence.  
 (2) If, in the course of any trial of any offence under this Act it is found that the accused person has 
@@ -707,10 +707,10 @@ punishment thereof.
 particular, where the examination of witnesses has begun, the same shall be continued  from day to day 
 until all the witnesses in attendance have been examined, and if any Special Court finds the adjournment 
 of the same beyond the following date to be necessary, it shall record its reasons for doing so.  
-13. Forfeiture of funds or property .ï¿½Where a person has been convicted of an offence under this 
+13. Forfeiture of funds or property .—Where a person has been convicted of an offence under this 
 Act, the Special Court trying such offence may, if it is considered necessary so to do, declare that any 
 funds or property seized under section 8 shall stand forfeited to the State.  
-14. Appeal .ï¿½(1) Notwithstanding anything contained in the Code, an appeal shall lie as a matter of 
+14. Appeal .—(1) Notwithstanding anything contained in the Code, an appeal shall lie as a matter of 
 right from any judgment, sentence or order, not being an interlocutory order, of a Special Court to the 
 High Court both on facts and on law.   
 (2) Every appeal under this section shall be preferred within a period of thirty days from the date of 
@@ -720,13 +720,13 @@ if it is satisfied that the ap pellant had sufficient cause for not preferring t
 thirty days.  
 PART  V 
 MISCELLANEOUS  
-15. Protection of action taken under this Act .ï¿½No suit, prosecution or other legal proceeding shall 
+15. Protection of action taken under this Act .—No suit, prosecution or other legal proceeding shall 
 lie against the State Government or any officer or authority of the State Government for anything which is 
 in good faith done or intended to be done in pursuance of this Act or any rules or orders made under this 
 Act. 
-16. Burden of proof .ï¿½Where any person is prosecuted of an offence under sectio n 4, the burden of 
+16. Burden of proof .—Where any person is prosecuted of an offence under sectio n 4, the burden of 
 proving that he had not committed the offence under the said section shall be on him.  
-17. Obligation of certain persons to report about the commission of offence under  this Act .ï¿½(1) 
+17. Obligation of certain persons to report about the commission of offence under  this Act .—(1) 
 All officers of Government are hereby required and empowered to assist the police in the execution of the 
 provisions of this Act or any rule or order made thereunder . 
 (2) All village officers an d such other officers as may be specified by the Collector or the District 
@@ -737,16 +737,16 @@ fact to the nearest police station.
 imprisonment of either description for a term which may extend to two years and sh all also be liable to 
 fine.     5 
  18. Person convicted of an offence under section 4 to be disqualified from inheriting certain 
-properties .ï¿½A person convicted of an offence under sub -section ( 1) of section 4 in relation to the 
+properties .—A person convicted of an offence under sub -section ( 1) of section 4 in relation to the 
 commission of sati shall be disqualified from inheriting the property of the person in respect of whom 
 such sati has been committed or the property of any other person which he would have been entitled to 
 inherit on the death of the person in respect of whom such sati has b een committed.  
-19. [Amendment of Act 43 of 1951 ].ï¿½Rep. by the Repealing and Amending Act, 2001 ( 30 of 2001 )   
+19. [Amendment of Act 43 of 1951 ].—Rep. by the Repealing and Amending Act, 2001 ( 30 of 2001 )   
 s. 2 and the First Schedule  (w.e.f.  3-9-2001 ). 
-20. Act to have over riding effect .ï¿½The provisions of this Act or any rule or order made thereunder 
+20. Act to have over riding effect .—The provisions of this Act or any rule or order made thereunder 
 shall have effect notwithstanding anything inconsistent therewith con tained in any enactment other than 
 this Act or in any instrument having effect by virtue of any enactment other than this Act . 
-21. Power to make rules .ï¿½(1) The Central Government may, by  notification in the Official Gazette, 
+21. Power to make rules .—(1) The Central Government may, by  notification in the Official Gazette, 
 make rules for carrying out the provisions of this Act.  
 (2) Every rule made under this section shall be laid, as soon as may be after it is made, before each 
 House of Parliament, while it is in session, for a total pe riod of thirty days which may be comprised in 
@@ -755,7 +755,7 @@ following the session or the successive sessions aforesaid, both Houses agree in
 in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only 
 in such modified form or be of no effect, as the case may be; so, however, that any such modification or 
 annulment shall be without prejudice to th e validity of anything previously done under that rule.  
-22. Repeal of existing laws .ï¿½(1) All laws in force in any State immediately before the 
+22. Repeal of existing laws .—(1) All laws in force in any State immediately before the 
 commencement of this Act in that State which provide for the prevention or the glorification of sati shall, 
 on such commencement, stand repealed.  
 (2) Notwithstanding such repeal, anything done or any action taken under any law repealed under 
@@ -770,14 +770,14 @@ been constituted under section 9 of this Act.
 ACT NO. 28 OF 1961  
 [20th May, 1961 .] 
 An Act to prohibit the giving or taking of dowry.  
-BE it enacted by Parliament in the Twelfth Year of the Republic of India as follows: ï¿½ 
-1. Short title, extent and commencement .ï¿½(1) This Act may be called the Dowry Prohibition     
+BE it enacted by Parliament in the Twelfth Year of the Republic of India as follows: — 
+1. Short title, extent and commencement .—(1) This Act may be called the Dowry Prohibition     
 Act, 1961.  
 (2) It extends to the whole of India except the State of Jammu and Kashmir.  
 (3) It shall come into force on such date1 as the Central Government may, by notification in the 
 Official Gazette, appoint.  
-2. Definition of ï¿½dowryï¿½.ï¿½In this Act, ï¿½dowry ï¿½ means any property or valuable security given or 
-agreed to be given either directly or indirectly ï¿½ 
+2. Definition of “dowry”.—In this Act, “dowry ” means any property or valuable security given or 
+agreed to be given either directly or indirectly — 
 (a) by one party to a marriage to the other party to the marriage; or  
 (b) by the parent s of either party to a marriage or by any other person, to either party to the 
 marriage or to any other person ; 
@@ -785,15 +785,15 @@ at or before  2[or any time after the marriage]  3[in connection with the marria
 does not include] dower or mahr  in the case of persons to whom the Muslim Personal Law ( Shariat ) 
 applies.  
 4*         *                       *                 *       * 
-Explanation  II.ï¿½The expression ï¿½valuable security ï¿½ has the same meaning as in section 30 of the 
+Explanation  II.—The expression “valuable security ” has the same meaning as in section 30 of the 
 Indian Penal Code (45 of 1860).  
-3. Penalty for giving or taking dowry .ï¿½5[(1)] If any person, after the commencement of this Act, 
+3. Penalty for giving or taking dowry .—5[(1)] If any person, after the commencement of this Act, 
 gives or takes or abets the giving or taking of dowry , he shall be punishable  6[with imprisonment for a 
 term which shall not be less than  7[five years, and with fine which shall not be less than fifteen thousand 
 rupees or the amount of the value of such dowry, whichever is more]:  
 Provided that the Court may, for adequate and special reasons to be recorded in the judgment, impose 
 a sentence of imprisonment for a term of less than  8[five years].]  
- 9[(2) Nothing in sub -section ( 1) shall apply to, or in relation to, ï¿½ 
+ 9[(2) Nothing in sub -section ( 1) shall apply to, or in relation to, — 
 (a) presents which are given at the time of a marriage to the bride (wit hout any demand having 
 been made in that behalf):  
 Provided that such presents ar e entered in a list maintained in accordance with the rules made 
@@ -804,25 +804,25 @@ Provided that such presents are entered in a list maintained in accordance with 
 under this Act:  
                                                            
 1. 1st July, 1961, vide notification No. S.O. 1410, dated 20th June, 1961, see Gazette of India, Extraordinary, Part II, sec. 3( ii). 
-2. Subs. by Act 43 of 1986, s. 2, for ï¿½or after the marriageï¿½ (w.e.f. 19 -11-1986).  
+2. Subs. by Act 43 of 1986, s. 2, for “or after the marriage” (w.e.f. 19 -11-1986).  
 3. Su bs. by Act 63 of 1984, s. 2, for certain words (w.e.f. 2 -10-1985).  
 4. The Explanation I omitted by s. 2, ibid. (w.e.f. 2 -10-1985).  
 5. Section 3 renumbered as sub -section ( 1) of that section  by s. 3, ibid. (w.e.f. 2 -10-1985).  
 6. Subs. by s. 3, ibid., for certain words (w.e.f. 2 -10-1985).  
 7. Subs. by Act 43 of 1986, s. 3, for certain words (w.e.f.  19-11-1986).  
-8. Subs. by s. 3, ibid., for ï¿½six monthsï¿½ (w.e.f. 19 -11-1986).  
+8. Subs. by s. 3, ibid., for “six months” (w.e.f. 19 -11-1986).  
 9. Ins. by Act 63 of 1984, s. 3 (w.e.f. 2 -10-1985).  2 
  Provided further that where su ch presents are made by or on behalf of the bride or any person 
 related to the bride, such presents ar e of a customary nature and the value thereof is not excessive 
 having regard to the financial status of the person by whom, or on whose behalf, such prese nts ar e 
 given.]  
-1[4. Penalty for demanding dowry .ï¿½If any person demands, directly or indirectly, from the parents 
+1[4. Penalty for demanding dowry .—If any person demands, directly or indirectly, from the parents 
 or other relatives or guardian of a bride or bridegroom, as the case may be, any dowry, he shall be 
 punishable with imprisonment for a term which shall not be less than six months, but which may extend 
 to two years and with fine which may extend to ten thousand rupees:  
 Provided that the Court may, for adequate and special reasons to be mentioned in the judgment, 
 impose a sentence of imprisonme nt for a term of less than six months.]  
-2[4A. Ban on advertisement .ï¿½If any person ï¿½ 
+2[4A. Ban on advertisement .—If any person — 
 (a) offers, through any advertisement in any newspaper, periodical, journal or through any other 
 media, any share in his property or of any money or both as a share in any business or other interest 
 as consideration for the marriage of his son or daughter or any other relative , 
@@ -831,11 +831,11 @@ he shall be punishable with imprisonment for a term which shall not be less than
 may extend to five years, or with fine which may extend to fifteen thousand rupees:  
 Provided that the Court may, for adequate and special reasons to be rec orded in the judgment, impose 
 a sentence of imprisonment for a term of less than six months.]  
-5. Agreement for giving or taking dowry to be void .ï¿½Any agreement for the giving or taking of 
+5. Agreement for giving or taking dowry to be void .—Any agreement for the giving or taking of 
 dowry shall be void.  
-6. Dowry to be for the benefit of the wife or h er heirs .ï¿½(1) Where any dowry is received by any 
+6. Dowry to be for the benefit of the wife or h er heirs .—(1) Where any dowry is received by any 
 person other than the woman in connection with whose marriage it is given, that person shall transfer it to 
-the woman ï¿½ 
+the woman — 
 (a) if the dowr y was received before marriage, within  3[three months] after the date of       
 marriage; or  
 (b) if the dowry was received at the time of or after the marriage, within  3[three months] after the 
@@ -850,17 +850,17 @@ shall not be less than five thousand rupees, but which may extend to ten thousan
 (3) Where the woman entitled to any property under sub -section ( 1) dies before receiving it, the heirs 
 of the woman shall be entitled to claim it from the person holding it for the time being:  
 7[Provided that where such woman dies within seven years of he r marriage, otherwise than due to 
-natural causes, such property shall, ï¿½ 
+natural causes, such property shall, — 
 (a) if she has no children, be transferred to her parents , or 
 (b) if she has children, be transferred to such children and pending such transfer, be held in trust 
 for such children.]  
                                                            
 1. Subs. by Act 63 of 1984, s . 4, for section 4 (w.e.f. 2 -10-1985).  
 2. Ins. by Act 43 of 1986, s. 4 (w.e.f. 19 -11-1986).  
-3. Subs. by Act 63 of 1984, s. 5, for ï¿½one yearï¿½ (w.e.f. 2 -10-1985).  
+3. Subs. by Act 63 of 1984, s. 5, for “one year” (w.e.f. 2 -10-1985).  
 4. Subs. by s. 5, ibid.,  for sub -section ( 2) (w.e.f. 2 -10-1985).  
 5. Ins. by Act 43 of 1986, s. 5 (w.e.f. 19 -11-1986).  
-6. Subs. by s. 5, ibid.,  for ï¿½which may extend to ten thousand rupeesï¿½ (w.e.f. 19 -11-1986).  
+6. Subs. by s. 5, ibid.,  for “which may extend to ten thousand rupees” (w.e.f. 19 -11-1986).  
 7. The proviso inserted by s. 5, ibid. (w.e.f. 19 -11-1986).  3 
  1[(3A) Where a person convicted under sub -section ( 2) for failure to transfer any property as required 
 by sub -section ( 1) 2[or sub -section ( 3)] has not, before his conviction under that sub -section, transferred 
@@ -872,17 +872,17 @@ the direction within the period so specified, an amount equal to the value of th
 recovered from him as if it were a fine imposed by such Court and paid to such woman or, as the case 
 may be, 3[her heirs, parents or children ].] 
 (4) Nothing contained in this section shall affect the provisions of section 3 or section 4.  
-4[7. Cognizance of offences .ï¿½(1) Notwithstanding anything contained in the Code of Criminal 
-Procedure, 1973 (2 of 1974), ï¿½ 
+4[7. Cognizance of offences .—(1) Notwithstanding anything contained in the Code of Criminal 
+Procedure, 1973 (2 of 1974), — 
 (a) no Court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class 
 shall try any offence under this Act;  
-(b) no court shall take co gnizance of an offence under this Act except upon ï¿½ 
+(b) no court shall take co gnizance of an offence under this Act except upon — 
 (i) its own knowledge or a police report of the facts which constitute such offence, or  
 (ii) a complaint by the person aggrieved by the offence or a parent or other relative of such 
 person, or by any recog nised welfare institution or organisation;  
 (c) it shall be lawful for a Metropolitan Magistrate or a Judicial Magistrate of the first class to 
 pass any sentence authorised by this Act on any person convicted of an offence under this Act.  
-Explanation. ï¿½For the purposes of this sub -section, ï¿½recogni sed welfare institution or organisation ï¿½ 
+Explanation. —For the purposes of this sub -section, “recogni sed welfare institution or organisation ” 
 means a social welfare institution or organisation recogni sed in this behalf by the Central or State 
 Government.  
 (2) Nothing in Chapter XXXVI of the Code of Criminal Proced ure, 1973 (2 of 1974) , shall apply to 
@@ -890,30 +890,30 @@ any offence punishable under this Act.]
 5[(3) Notwithstanding anything contained in any law for the time being in force a statement made by 
 the person aggrieved by the offence shall not subject such person to a prosecu tion under this Act.]  
 6[8. Offences to be cognizable for certain purposes and to be  bailable and                                
-non-compoundable .ï¿½(1) The Code of Criminal Procedure, 1973 (2 of 1974) shall apply to offences 
-under this Act as if they were cognizable offences ï¿½ 
+non-compoundable .—(1) The Code of Criminal Procedure, 1973 (2 of 1974) shall apply to offences 
+under this Act as if they were cognizable offences — 
 (a) for the purposes of investigation of such offences; and  
-(b) for the purposes of matters other than ï¿½ 
+(b) for the purposes of matters other than — 
 (i) matters referred to in section 42 of that Code; and  
 (ii) the arrest of a person without a warrant or without an order of a Magistrate.  
 (2) Every offence under this Act shall be  7[non-bailable] and non -compoundable.]  
-8[8A. Burden of proof in certain cases .ï¿½Where any person is prosecuted for taking or abetting the 
+8[8A. Burden of proof in certain cases .—Where any person is prosecuted for taking or abetting the 
 taking of any dowry under section 3, or the demanding of dowry under section 4, the burden of proving 
 that he had not committed an offence under th ose sections shall be on him.]  
                                                            
 1. Ins. by Act 63 of 1984, s. 5 (w.e.f. 2 -10-1985).  
 2. Ins. by Act 43 of 1986, s.  5 (w.e.f. 19 -11-1986).  
-3. Subs. by s. 5, ibid.,  for ï¿½her heirsï¿½ (w.e.f. 19 -11-1986).  
+3. Subs. by s. 5, ibid.,  for “her heirs” (w.e.f. 19 -11-1986).  
 4. Subs. by Act 63 of 1984, s. 6, for section 7 (w.e.f. 2 -10-1985).  
 5. Ins. by Act 43 of 1986, s. 6 (w.e.f. 19 -11-1986).  
 6. Subs. by Act 63 of 1984, s. 7, for section 8 ( w.e.f. 2 -10-1985).  
-7. Subs. by Act 43 of 1986, s. 7, for ï¿½bailableï¿½ (w.e.f. 19 -11-1986).  
+7. Subs. by Act 43 of 1986, s. 7, for “bailable” (w.e.f. 19 -11-1986).  
 8. Ins. by s. 8, ibid. (w.e.f. 19 -11-1986).  4 
- 8B. Dowry Prohibition Officers .ï¿½(1) The State Government may appoint  as many D owry 
+ 8B. Dowry Prohibition Officers .—(1) The State Government may appoint  as many D owry 
 Prohibition Officers as it thinks fit and specify the areas in respect of which they shall exercise their 
 jurisdiction and powers under this Act.  
 (2) Every Dowry Prohibition Officer shall exercise and perform the following powers and functions, 
-namely :ï¿½ 
+namely :— 
 (a) to see that the provision s of this Act are complied with;  
 (b) to prevent, as far as possible, the taking or abetting the taking of, or the demanding of, dowry;  
 (c) to collect such evidence as may be necessary for the prosecution of persons committing 
@@ -927,10 +927,10 @@ powers subject to such limitations and cond itions as may be specified by rules 
 in the efficient performance of their functions under this Act, appoint an advisory board consisting  of not 
 more than five social welfare workers (out of whom at least two shall be women) from the area in respect 
 of which such Dowry Prohibition Officer exercises jurisdiction under sub -section ( 1).] 
-9. Power to make rules .ï¿½(1) The Central Government may, by notification in the Official Gazette, 
+9. Power to make rules .—(1) The Central Government may, by notification in the Official Gazette, 
 make rules for carrying out the purposes of this Act.  
 1[(2) In particular, and without prejudice to the generality of the foregoing power, such rules may 
-provide for ï¿½ 
+provide for — 
 (a) the form and manner in which, and the person s by whom, any list of presents referred to in 
 sub-section ( 2) of section 3 shall be maintained and all other matters connected therewith; and  
 (b) the better co -ordination of policy and action with respect to the administration of this Act.]  
@@ -941,10 +941,10 @@ following the session or the successive sessions aforesaid], both Houses agree i
 in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect on ly 
 in such modified form or be of no effect, as the case may be , so however that any such modification or 
 annulment shall be without prejudice to the validity of anything previously done under that rule.  
-4[10. Power of the State Government to make rules .ï¿½(1) The State Government may, by 
+4[10. Power of the State Government to make rules .—(1) The State Government may, by 
 notification in the Official Gazette, make rules for carrying out the purposes of this Act.  
 (2) In particular, and without prejudice to the generality of the foregoing power, such rules may 
-provide for all or any of the foll owing matters, namely: ï¿½ 
+provide for all or any of the foll owing matters, namely: — 
 (a) the additional functions to be performed by the Dowry Prohibition Officers under               
 sub-section ( 2) of section 8B;  
 (b) limitations and conditions subject to which a Dowry Prohibition Officer may exercise his 
@@ -960,62 +960,62 @@ it is made before the State Legislature.]
 An Act to provide in pursuance of the International  Convention signed at New York on the 9th 
 day of May, 1950, for the prevention of immoral tra ffic. 
 Be it enacted by Parliament in the Seventh Year of the Republic of India as follows: 
-1. Short title, extent and commencement.ï¿½(1) This A ct may be called The Immoral Traffic 
+1. Short title, extent and commencement.—(1) This A ct may be called The Immoral Traffic 
 (Prevention) Act, 1956. 
 (2) It extends to the whole of India. 
 (3) This section shall come into force at once; and  the remaining provisions of this come into 
 force on such date as the Central Government may, b y notification in the official Gazette, 
 appoint. 
-2. Definitions.ï¿½In this Act. unless the context oth erwise requiresï¿½ 
-(a) ï¿½brothelï¿½ includes any house, room, conveyance or place, or any portion of any house, room, 
+2. Definitions.—In this Act. unless the context oth erwise requires— 
+(a) “brothel“ includes any house, room, conveyance or place, or any portion of any house, room, 
 conveyance or place, which is used for purposes of sexual exploitation or abuse for the gain of 
 another person or for the mutual gain of two or mor e prostitutes; 
-(aa) ï¿½childï¿½ means a person who has not completed t he age of sixteen years; 
-(b) ï¿½corrective institutionï¿½ means an institution, by whatever name called (being an institution 
+(aa) “child“ means a person who has not completed t he age of sixteen years; 
+(b) “corrective institution“ means an institution, by whatever name called (being an institution 
 established or licensed as such under Section 21), in which persons, who are in need of 
 correction, may be detained under this Act, and inc ludes a shelter where under trials may be kept 
 in pursuance of this Act; 
-(c) ï¿½magistrateï¿½ means a Magistrate specified in th e second column of the Schedule as being 
+(c) “magistrate“ means a Magistrate specified in th e second column of the Schedule as being 
 competent to exercise the powers conferred by the s ection in which the expression occurs and 
 which is specified in the first column of the Sched ule; 
-(ca) ï¿½majorï¿½ means a person who has completed the a ge of eighteen years; 
-(cb) ï¿½minorï¿½ means a person who has completed the a ge of sixteen years but has not completed 
+(ca) “major“ means a person who has completed the a ge of eighteen years; 
+(cb) “minor“ means a person who has completed the a ge of sixteen years but has not completed 
 the age of eighteen years; 
-(d) ï¿½prescribedï¿½ means prescribed by rules made und er this Act; 
+(d) “prescribed“ means prescribed by rules made und er this Act; 
 (e) [1] [ * * * * * * ]. 
-(f) ï¿½prostitutionï¿½ means the sexual exploitation or  abuse of persons for commercial purposes, and 
-the expression ï¿½prostituteï¿½ shall be construed acco rdingly;  2 (g) ï¿½protective homeï¿½ means an institution, by what ever name called (being an institution 
+(f) “prostitution“ means the sexual exploitation or  abuse of persons for commercial purposes, and 
+the expression “prostitute” shall be construed acco rdingly;  2 (g) “protective home“ means an institution, by what ever name called (being an institution 
 established or licensed as such under Section 21), in which persons who are in need of care and 
 protection, may be kept under this Act and where ap propriate technically qualified persons, 
-equipments and other facilities have been provided but does not include,ï¿½ 
+equipments and other facilities have been provided but does not include,— 
 (i) a shelter where under trials may be kept in pur suance of this Act, or 
 (ii) a corrective institution; 
-(h) ï¿½public placeï¿½ means any place intended for use  by, or accessible to, the publicand includes 
+(h) “public place“ means any place intended for use  by, or accessible to, the publicand includes 
 any public conveyance; 
-(i) ï¿½special police officerï¿½ means a police officer  appointed by or on behalf of the State 
+(i) “special police officer” means a police officer  appointed by or on behalf of the State 
 Government to be in charge of police duties within a specified area for the purpose of this Act; 
-(j) ï¿½trafficking police officerï¿½ means a police off icer appointed by the Central Government under 
+(j) “trafficking police officer“ means a police off icer appointed by the Central Government under 
 sub-section (4) of Section 13. 
 Comments 
-Prostitutionï¿½Police raidï¿½Nine girls recoveredï¿½Enquir y conducted under Sec. 17ï¿½Medical 
-examination report stating to have had sexual inter course within a week before examinationï¿½
-Detention orderï¿½Appealï¿½No evidence as to petitioners  living in or carrying on prostitution 
-brothel at time of raidï¿½No evidence to prove that pe titioners were seducing any person for the 
-purpose of prostitutionï¿½Profession of accused state d to be dancing & singingï¿½Held :ï¿½Sexual 
-intercourse by itself is not an offenceï¿½Prostitutio n by itself is not an offenceï¿½Petition allowed. 
+Prostitution—Police raid—Nine girls recovered—Enquir y conducted under Sec. 17—Medical 
+examination report stating to have had sexual inter course within a week before examination—
+Detention order—Appeal—No evidence as to petitioners  living in or carrying on prostitution 
+brothel at time of raid—No evidence to prove that pe titioners were seducing any person for the 
+purpose of prostitution—Profession of accused state d to be dancing & singing—Held :—Sexual 
+intercourse by itself is not an offence—Prostitutio n by itself is not an offence—Petition allowed. 
 Kumari Sangeeta v. State and another. 1996 Cr.R. 12 9 (Delhi) 
-2-A. Rule of construction regarding enactments not extending to Jammu and Kashmir .ï¿½Any 
+2-A. Rule of construction regarding enactments not extending to Jammu and Kashmir .—Any 
 reference in this Act to a law which is not in forc e in the State of Jammu and Kashmir shall in 
 relation to that State, be construed as a reference  to the corresponding law, if any, in force in that  
 State. 
-3. Punishment for keeping a brothel or allowing pre mises to be used as a brothel.ï¿½ (1) Any 
+3. Punishment for keeping a brothel or allowing pre mises to be used as a brothel.— (1) Any 
 person who keeps or manages, or acts or assists in the keeping or management of, a brothel, shall 
 be punishable on first conviction with rigorous imp risonment for a term of not less than one year 
 and not more than three years and also with fine wh ich may extend to two thousand rupees and 
 in the event of a second or subsequent to convictio n with rigorous imprisonment for a term of not 
 less than two years and not more than five years an d also with fine which may extend to two 
 thousand rupees. 
-(2) a any person who,ï¿½ 
+(2) a any person who,— 
 (a) being the tenant, lessee, occupier or person in  charge of any premises, uses, or knowingly 
 allows any other person to use, such premises or an y part thereof as a brothel, or  3 (b) being the owner, lessor or landlord of any prem ises or the agent of such owner, lessor or 
 landlord, lets the same or any part thereof with th e knowledge that the same or any part thereof is 
@@ -1027,7 +1027,7 @@ may extend to five years and also with fine.
 (2-A) For the purposes of sub-section (2), it shall  be presumed, until the contrary is proved, that 
 any person referred to in clause (a) or clause (b) of that sub-section, is knowingly allowing the 
 premises or any part thereof to be used as a brothe l or, as the case may be, has knowledge that 
-the premises or any part thereof are being used as a brothel, if,ï¿½ 
+the premises or any part thereof are being used as a brothel, if,— 
 (a) a report is published in a newspaper having cir culation in the area in which such person 
 resides to the effect that the premises or any part  thereof have been found to be used for 
 prostitution as a result of a search made under thi s Act; or 
@@ -1039,20 +1039,20 @@ under that sub-section in respect of any premises o r any part thereof, any leas
 under which such premises have been leased out or h eld or occupied at the time of the 
 commission of the offence, shall become void and in operative with effect from the date of the 
 said conviction. 
-4. Punishment for living on the earnings of prostit ution .ï¿½(1) Any person over the age of 
+4. Punishment for living on the earnings of prostit ution .—(1) Any person over the age of 
 eighteen years who knowingly lives, wholly or in pa rt, on the earnings of the prostitution of any 
 other person shall be punishable with imprisonment for a term which may extend to two years, or 
 with fine which may extend to one thousand rupees, or with both, and where such earnings relate 
 to the prostitution of a child or a minor, shall be  punishable with imprisonment for a term of not 
 less than seven years and not more than ten years. 
-(2) Where any person over the age of eighteen years  is proved,ï¿½ 
+(2) Where any person over the age of eighteen years  is proved,— 
 (a) to be living with, or to be habitually in the c ompany of, a prostitute; or 
 (b) to have exercised control, direction or influen ce over the movements of a prostitute in such a 
 manner as to show that such person is aiding abetti ng or compelling her prostitution; or 
 (c) to be acting as a tout or pimp on behalf of a p rostitute, it shall be presumed, until the contrary  
 is proved, that such person is knowingly living on the earnings of prostitution of another person 
 within the meaning of sub-section (1). 
-5. Procuring, inducing or taking person for the sak e of prostitution.ï¿½(1) Any person whoï¿½  4 (a) procures or attempts to procure a person whethe r with or without his/her consent, for the 
+5. Procuring, inducing or taking person for the sak e of prostitution.—(1) Any person who—  4 (a) procures or attempts to procure a person whethe r with or without his/her consent, for the 
 purpose of prostitution; or 
 (b) induces a person to go from any place, with the  intent that he/she may for the purpose of 
 prostitution become the inmate of, or frequent, a b rothel; or 
@@ -1064,19 +1064,19 @@ years and not more than seven years and also with f ine which may extend to two 
 rupees, and if any offence under this sub-section i s committed against the will of any person, the 
 punishment of imprisonment for a term of seven year s shall extend to imprisonment for a term of 
 fourteen years: 
-Provided that if the person in respect of whom an o ffence committed under this sub-section,ï¿½ 
+Provided that if the person in respect of whom an o ffence committed under this sub-section,— 
 (i) is a child, the punishment provided under this sub-section shall extend to rigorous 
 imprisonment for a term of not less than seven year s but may extend to life; and 
 (ii) is a minor, the punishment provided under this  sub-section shall extend to rigorous 
 imprisonment for a term of not less than seven year s and not more than fourteen years. 
 [2] (2) [ **** ** ] 
-(3) An offence under this section shall be triable, ï¿½ 
+(3) An offence under this section shall be triable, — 
 (a) in the place from which a person is procured, i nduced to go, taken or caused to be taken or 
 from which an attempt to procure or taken such pers ons made; or 
 (b) in the place to which she may have gone as a re sult of the inducement or to which he/she is 
 taken or caused to be taken or an attempt to take h im/her is made. 
-6. Detaining a person in premises where prostitutio n is carried on.ï¿½(1) Any person who detains 
-any other person, whether with or without his conse nt,ï¿½ 
+6. Detaining a person in premises where prostitutio n is carried on.—(1) Any person who detains 
+any other person, whether with or without his conse nt,— 
 (a) in any brothel, or 
 (b) in or upon any premises with intent that such p erson may have sexual intercourse with a 
 person who is not the spouse of such person, shall be punishable on conviction, with 
@@ -1091,7 +1091,7 @@ has been detained for purposes of prostitution or, as the case may be, has been 
 for commercial purposes. 
 (3) A person shall be presumed to detain a person i n a brothel or in upon any premises for the 
 purpose of sexual intercourse with a man other than  her lawful husband, if such person, with 
-intent to compel or induce her to remain there,ï¿½ 
+intent to compel or induce her to remain there,— 
 (a) with holds from her any jewellery, wearing appa rel, money or other property belonging to 
 her, or 
 (b) threatens her with legal proceedings if she tak es away with her any jewellery, wearing 
@@ -1101,7 +1101,7 @@ lie against such woman or girl at the instance of t he person by whom she has be
 the recovery of any jewellery, wearing apparel or o ther property alleged to have been lent or 
 supplied to or for such woman or girl or to have be en pledged by such woman or girl or for the 
 recovery of any money alleged to be payable by such  woman or girl. 
-7. Prostitution in or in the vicinity of public pla ce.ï¿½(1) Any person who carries on prostituion 
+7. Prostitution in or in the vicinity of public pla ce.—(1) Any person who carries on prostituion 
 and the person with whom such prostitution is carri ed on, in any premises: 
 (a) which are within the area or areas, notified un der sub-section (3), or 
 (b) which are within a distance of two hundred mete rs of any place of public religious worship, 
@@ -1130,7 +1130,7 @@ time being in force shall also be liable to be susp ended for a period of not le
 but which may extend to one year: 
 Provided that if an offence committed under this su b-section is in respect of a child or minor in a 
 hotel, such license shall also be liable to be canc elled. 
-Explanation.ï¿½For the purposes of this sub-section, ï¿½hotelï¿½ shall have the meaning as in clause 
+Explanation.—For the purposes of this sub-section, “hotel” shall have the meaning as in clause 
 (6) of Section 2 of the Hotel-Receipts Tax Act, 198 0 (54 of 1980). 
 (3) The State Government may, having regard to the kinds of persons frequenting any area or 
 areas in the State, the nature and the density of p opulation therein and other relevant 
@@ -1141,7 +1141,7 @@ State Government shall define the limits of such ar ea or areas in the notificat
 certainty. 
 (5) No such notification shall be issued so as to ha ve effect from a date earlier than the expiry of 
 a period of ninety days after the date on which it is issued. 
-8. Seducing or soliciting for purpose of prostituti on.ï¿½Whoever, in any public place or within 
+8. Seducing or soliciting for purpose of prostituti on.—Whoever, in any public place or within 
 sight of, and in such manner as to be seen or heard  from, any public place, whether from within 
 any building or house or not: 
 (a) by words, gestures, willful exposure of her per son (whether by sitting by a window or on the 
@@ -1156,7 +1156,7 @@ and also with fine which may extend to five hundred  rupees:
 Provided that where an offence under this Section i s committed by a man he shall be punishable 
 with imprisonment for a period of not less than sev en days but which may extend to three 
 months. 
-9. Seduction of a person in custody.ï¿½Any person who  having the custody, charge or care of or 
+9. Seduction of a person in custody.—Any person who  having the custody, charge or care of or 
 in a position of authority over any person causes o r aids or abets the seduction for prostitution of 
 that shall be punishable on conviction with impriso nment of either description for a term which 
 shall not be less than seven years but which may be  for life or for a term which may extend to ten 
@@ -1165,7 +1165,7 @@ Provided that the court may, for adequate and speci al reasons to be mentioned i
 impose a sentence of imprisonment for a term of les s than seven years. 
 [3] [(2) ******* ] 
 [4] [10. ******* ] 
-10-A. Detention in a corrective institution.ï¿½(1) Wh ere,ï¿½ 
+10-A. Detention in a corrective institution.—(1) Wh ere,— 
 (a) a female offender is found guilty of an offence  under Section 7 or Section 8, and 
 (b) the character, state of health and mental condi tion of the offender and the other circumstances 
 of the case are such that it is expedient that she should be subject to detention for such term and 
@@ -1173,7 +1173,7 @@ such instruction and discipline as are conducive to  her correction,
 it shall be lawful for the court to pass, in lieu o f a sentence of imprisonment, an order for 
 detention in a corrective institution for such term , not being less than two years and not being 
 more than five years, as the court thinks fit: 
-Provided that before passing such an order,ï¿½ 
+Provided that before passing such an order,— 
 (i) the court shall give an opportunity to the offe nder to be heard and shall also consider any 
 representation which the offender may make to the c ourt as to the suitability of the case for 
 treatment in such an institution, as also the repor t of the Probation Officer appointed under the 
@@ -1194,8 +1194,8 @@ licence in such form as may be prescribed.
 (4) The conditions on which an order is discharged under sub-section (3), may include 
 requirements relating to residence of the offender and supervision over the offenders activities 
 and movements. 
-11. Notification of address of previously convicted offenders.ï¿½(1) When any person having 
-been convictedï¿½ 
+11. Notification of address of previously convicted offenders.—(1) When any person having 
+been convicted— 
 (a) by a court in India of an offence punishable un der this Act or punishable under Section 363, 
 Section 365, Section 366, Section 366-A, Section 36 6-B, Section 367, Section 368, Section 370, 
 Section 371, Section 372 or Section 373 of the Indi an Penal Code (45 of 1860), with 
@@ -1215,19 +1215,19 @@ when exercising its powers of revision.  9 (4) Any person charged with a breach 
 Magistrate of competent jurisdiction in the Distric t in which the place last notified as his 
 residence is situated. 
 [5] [12.****** ] 
-13. Special police officer and advisory body .ï¿½(1) There shall be for each area to be specified 
+13. Special police officer and advisory body .—(1) There shall be for each area to be specified 
 by the State Government in this behalf a special po lice officer appointed by or on behalf of that 
 government for dealing with offences under this Act  in that area. 
 (2) The special police officer shall not be below t he rank of an Inspector of Police. 
 (2-A) The District Magistrate may, if he considers it necessary or expedient so to do, confer upon 
 any retired police or military officer all or any o f the powers conferred by or under this Act on a 
 special police officer, with respect to particular cases or classes of cases or to cases generally: 
-Provided that no such power shall be conferred on,ï¿½  
+Provided that no such power shall be conferred on,—  
 (a) a retired police officer unless such officer, a t the time of his retirement, was holding a post 
 not below the rank of an inspector; 
 (b) a retired military officer unless such officer,  at the time of his retirement, was holding a post 
 not below the rank of a commissioned officer. 
-(3) For the efficient discharge of his functions in  relation to offences under this Act,ï¿½ 
+(3) For the efficient discharge of his functions in  relation to offences under this Act,— 
 (a) the special police officer of an area shall be assisted by such number of subordinate police 
 officers (including women police officers wherever practicable) as the State Government may 
 think fit; and 
@@ -1241,9 +1241,9 @@ committed in more than one State appoint such numbe r of police officers as traf
 officers and they shall exercise all the powers and  discharge all the functions as are exercisable 
 by special police officers under this Act with the modification that they shall exercise such 
 powers and discharge such functions in relation to the whole of India. 
-14. Offences to be cognizable.ï¿½Not with standing any thing contained in the Code of Criminal 
+14. Offences to be cognizable.—Not with standing any thing contained in the Code of Criminal 
 Procedure, 1973 (2 of 1974), an offence punishable under this Act shall be deemed to be a 
-cognizable offence within the meaning of that Code:   10  Provided that, notwithstanding anything contained i n that Code,ï¿½ 
+cognizable offence within the meaning of that Code:   10  Provided that, notwithstanding anything contained i n that Code,— 
 (i) arrest without warrant may be made only by the special police officer or under his direction or 
 guidance, or subject to his prior approval; 
 (ii) when the special police officer requires any o fficer subordinate to him to arrest without 
@@ -1259,7 +1259,7 @@ committed the offence is likely to escape, or if th e name and address of such a
 unknown or there is reason to suspect that a false name or address has been given, arrest the 
 person concerned without such order, but in such a case he shall report, as soon as may be, to the 
 special police officer the arrest and the circumsta nces in which the arrest was made. 
-15. Search without warrant .ï¿½(1) Notwithstanding any thing contained in any other law for the 
+15. Search without warrant .—(1) Notwithstanding any thing contained in any other law for the 
 time being in force, whenever the special police of ficer or the trafficking police officer as the 
 case may be, has reasonable grounds for believing t hat an offence punishable under this Act has 
 been or is being committed in respect of a person l iving in any premises, and that search of the 
@@ -1284,7 +1284,7 @@ person under sub-section (4) shall forthwith produc e her before the appropriate
 by a registered medical practitioner for the purpos es of determination of the age of such person, 
 or for the detection of any injuries as a result of  sexual abuse or for the presence of any sexually 
 transmitted diseases. 
-Explanation.ï¿½In this sub-section, ï¿½registered medic al practitionerï¿½ has the same meaning as in 
+Explanation.—In this sub-section, “registered medic al practitioner” has the same meaning as in 
 the Indian Medical Council Act, 1956 (102 of 1956).  
 (6) The special police officer or the trafficking p olice officer, as the case may be, and other 
 persons taking part in, or attending, and witnessin g a search shall not be liable to any civil or 
@@ -1295,20 +1295,20 @@ search under this section shall be accompanied by a t least two women police off
 any woman or girl removed under sub-section (4) is required to be interrogated it shall be done 
 by woman police officer and if no woman police offi cer is available, the interrogation shall be 
 done only in the presence of a lady member of a rec ognised welfare institution or organization. 
-Explanation.ï¿½For the purposes of this sub-section a nd Section 17-A, ï¿½recognised welfare 
-institution or organisationï¿½ means such institution  or organisation as may be recognised in this 
+Explanation.—For the purposes of this sub-section a nd Section 17-A, “recognised welfare 
+institution or organisation” means such institution  or organisation as may be recognised in this 
 behalf by the State Government. 
 (7) The provisions of the Code of Criminal Procedur e, 1973 (2 of 1974) shall, so far as may be, 
 apply to any search under this section as they appl y to any search made under the authority of a 
 warrant issued under 94 of the said Code. 
-16. Rescue of personï¿½(1) Where a Magistrate has rea son to believe from information received 
+16. Rescue of person—(1) Where a Magistrate has rea son to believe from information received 
 from the police or from any other person authorised  by State Government in this behalf or 
 otherwise, that any person is living, or is carryin g, or is being made to carry on, prostitution in a 
 brothel, he may direct a police officer not below t he rank of a sub-inspector to enter such brothel, 
 and to remove there from such person and produce he r before him. 
 (2) The police officer, after removing the person s hall forthwith produce her before the 
 Magistrate issuing the order. 
-17. Intermediate custody, of persons removed under Section 15 or rescued under Section 16 .ï¿½
+17. Intermediate custody, of persons removed under Section 15 or rescued under Section 16 .—
 (1) When the special police officer removing a pers on under sub-section (4) of Section 15 or a 
 police officer rescuing a person under sub-section (1) of Section 16, is for any reason unable to 
 produce her before the appropriate Magistrate as re quired by sub-section (5) of Section 15, or 
@@ -1338,7 +1338,7 @@ Provided further that no person shall be kept in cu stody for this purpose for a
 three weeks from the date of such an order, and no person shall be kept in the custody of a 
 person likely to have a harmful influence over her.  
 (4) Where the Magistrate is satisfied, after making  an inquiry as required under sub-section 
-(2),ï¿½ 
+(2),— 
 (a) that the information received is correct; and 
 (b) that she is in need of care and protection, 
 he may, subject to the provisions of sub-section (5 ), make an order that such person be detained 
@@ -1358,12 +1358,12 @@ social welfare workers, in the field of suppression  of immoral traffic in perso
 (6) An appeal against an order made under sub-secti on (4) shall lie to the Court of Session whose 
 decision on such appeal shall be final. 
 17-A. Conditions to be observed before placing pers ons rescued under Section 16 to parents or 
-guardians .ï¿½Notwithstanding anything contained in su b-section (2) of Section 17, the magistrate 
+guardians .—Notwithstanding anything contained in su b-section (2) of Section 17, the magistrate 
 making an inquiry under Section 17, may, before pas sing an order for handing over any person 
 rescued under Section 16 to the parents, guardian o r husband, satisfy himself about the capacity 
 or genuineness of the parents, guardian or husband to keep such person by causing an 
 investigation to be made by a recognised welfare in stitution or organisation. 
-18. Closure of brothel and eviction of offenders fr om the premises .ï¿½(1) A Magistrate may, on 
+18. Closure of brothel and eviction of offenders fr om the premises .—(1) A Magistrate may, on 
 receipt of information from the police or otherwise , that any house, room, place or any portion 
 thereof within a distance of two hundred metres of any public place referred to in sub-section (1) 
 of Section 7 is being run or used as a brothel by a ny person, or is being used by prostitutes for 
@@ -1373,7 +1373,7 @@ any other person in charge of such house, room, pla ce, or portion, to show caus
 days of the receipt of the notice why the same shou ld not be attached for improper use thereof, 
 and if, after hearing the person concerned, the Mag istrate is satisfied that the house, room, place 
 or portion is being used as a brothel or for carryi ng on prostitution, then the Magistrate may pass 
-orders,ï¿½ 
+orders,— 
 (a) directing eviction of the occupier within seven  days of the passing of the order from the 
 house, room, place, or portion; 
 (b) directing that before letting it out during the  period of one year or in a case where a child or 
@@ -1407,10 +1407,10 @@ which may extend to five hundred rupees or when he fails to comply with a direct
 proviso to that sub-section, he shall be deemed to have committed an offence under clause (b) of 
 sub-section (2), of Section 3 or clause (c) of sub- section (2) of Section 7, as the case may be, and 
 punished accordingly. 
-19. Application for being kept in a protective home  or provided care and protection by court.ï¿½
+19. Application for being kept in a protective home  or provided care and protection by court.—
 (1) A person who is carrying on, or is being made t o carry on prostitution, may make an 
 application, to the Magistrate within the local lim its of whose jurisdiction she is carrying on, or is  
-being made to carry on prostitution, for an order t hat she may beï¿½ 
+being made to carry on prostitution, for an order t hat she may be— 
 (a) kept in a protective home, or 
 (b) provided care and protection by the court in th e manner specified in sub-section (3). 
 (2) The Magistrate may pending inquiry under sub-se ction (3) direct that the person be kept in 
@@ -1423,7 +1423,7 @@ to be recorded, make an order that the applicant to  be kept:  15  (i) in a prot
 (ii) in a corrective institution, or 
 (iii) under the supervision of a person appointed b y the Magistrate for such period as may be 
 specified in the order. 
-20. Removal of prostitute from any place.ï¿½(1) A Mag istrate on receiving information that any 
+20. Removal of prostitute from any place.—(1) A Mag istrate on receiving information that any 
 person residing in or frequenting any place within the local limits of his jurisdiction is a 
 prostitute, may record the substance of the informa tion received and issue a notice to such person 
 requiring her to appear before the Magistrate and s how cause why she should not be required to 
@@ -1442,7 +1442,7 @@ less than seven days from the date of the order, to  remove herself from the pla
 whether within or without the local limits of his j urisdiction, by such route or routes and within 
 such time as may be specified in the order and also  prohibit her from re-entering the place 
 without the permission in writing of the Magistrate  having jurisdiction over such place. 
-(4) Whoever,ï¿½ 
+(4) Whoever,— 
 (a) fails to comply with an order issued under this  section, within the period specified therein, or 
 whilst an order prohibiting her from re-entering a place without permission is in force, re-enters 
 the place without such permission, or 
@@ -1451,7 +1451,7 @@ place and has not obtained the requisite permission  to re-enter it, harbours or
 person in the place, shall be punishable with fine which may extend to two hundred rupees and in 
 the case of a continuing offence with an additional  fine which may extend to twenty rupees for 
 every day after the first during which she or he ha s persisted in the offence. 
-21. Protective homes.ï¿½ (1) The State Government may  in its discretion establish as many 
+21. Protective homes.— (1) The State Government may  in its discretion establish as many 
 protective homes and corrective institutions under this Act as it thinks fit and such homes and 
 institutions when established shall be maintained i n such manner as may be prescribed.  16  (2) No person or no authority other than the State g overnment shall, after the commencement of 
 this Act, establish or maintain any protective home  or corrective institution except under and in 
@@ -1497,7 +1497,7 @@ protective home or to a corrective institution or a n inmate of a corrective ins
 corrective institution or to a protective home, whe re such transfer is considered desirable having 
 regard to the conduct of the person to be transferr ed, the kind of training to be imparted and other 
 circumstances of the case: 
-Provided that,ï¿½ 
+Provided that,— 
 (i) no person who is transferred under this sub-sec tion shall be required to stay in the home or 
 institution to which she is transferred for a perio d longer than she was required to stay in the 
 home or institution from which she was transferred;  
@@ -1507,14 +1507,14 @@ accordance with the provisions of this section, sha ll be punishable in the case
 with fine which may extend to one thousand rupees a nd in the case of second or subsequent 
 offence with imprisonment for a term which may exte nd to one year, or with fine which may 
 extend to two thousand rupees, or with both. 
-21-A. Production of records .ï¿½Every person or autho rity who is licensed under sub-section (3) 
+21-A. Production of records .—Every person or autho rity who is licensed under sub-section (3) 
 of Section 21 to establish or maintain, or, as the case may be, for maintaining, a protective home 
 or corrective institution shall whenever required b y a Court, produce the records and other 
 documents maintained by such home or institution be fore such court. 
-22. Trials .ï¿½No Court, inferior to that of a Metropo litan Magistrate or a Judicial magistrate of 
+22. Trials .—No Court, inferior to that of a Metropo litan Magistrate or a Judicial magistrate of 
 the first class, shall try any offence under Sectio n 3, Section 4, Section 5, Section 6, Section 7 or 
 Section 8. 
-22-A. Power to establish special Courts.ï¿½(1) If the  State Government is satisfied that it is 
+22-A. Power to establish special Courts.—(1) If the  State Government is satisfied that it is 
 necessary for the purpose of providing for speedy t rial of offences under this Act in any district 
 or metropolitan area, it may, by notification in th e official Gazette and after consultation with the 
 High Court, establish one or more Courts of Judicia l Magistrates of the first class, or, as the case 
@@ -1528,9 +1528,9 @@ in any district or metropolitan area shall be deeme d to be a court established 
 (1) of Section 11, or, as the case may be, sub-sect ion (1) of Section 16 of the Code of Criminal 
 Procedure, 1973 (2 of 1974) and provisions of the C ode shall apply accordingly in relation to 
 such courts. 
-Explanation.ï¿½In this section, ï¿½High Courtï¿½ has the same meaning as in clause (e) of Section 2 
+Explanation.—In this section, “High Court” has the same meaning as in clause (e) of Section 2 
 of the Code of Criminal Procedure, 1973. 
-[6] [22-AA. Power of Central Government to establis h special courts.ï¿½(1) If the Central 
+[6] [22-AA. Power of Central Government to establis h special courts.—(1) If the Central 
 Government is satisfied that it is necessary for th e purpose of providing for speedy trial of 
 offences under this Act and committed in more than one State, it may, by notification in the 
 official Gazette and after consultation with the Hi gh Court concerned, establish one or more 
@@ -1538,7 +1538,7 @@ courts of Judicial Magistrates of the first class o r Metropolitan Magistrates f
 offences. 
 (2) The provisions of Section 22-A, shall, so far a s may be, apply to the courts established under 
 sub-section (1), as they apply to Courts establishe d under that section. 
-22-B. Power of court to try cases summarily .ï¿½Notwi thstanding anything contained in the Code 
+22-B. Power of court to try cases summarily .—Notwi thstanding anything contained in the Code 
 of Criminal Procedure, 1973, the State Government m ay, if it considers it necessary so to do, 
 direct that offences under this Act shall be tried in a summary way by a Magistrate including the 
 presiding officer of a court established under sub- section (1) of Section 22-A and the provisions 
@@ -1552,7 +1552,7 @@ imprisonment for a term exceeding one year may have  to be passed or that it is,
 reason, undesirable to try the case summarily, the Magistrate shall, after hearing the parties 
 record an order to that effect and thereafter recal l any witness, who may have been examined and 
 proceed to hear or re-hear the case in the manner p rovided by the said Code]. 
-23. Power to make rules .ï¿½(1) The State Government may, by notification in the official 
+23. Power to make rules .—(1) The State Government may, by notification in the official 
 Gazette, make rules for carrying on the purposes of  this Act. 
 (2) In particular, and without prejudice to the gen erality of the foregoing powers, such rules may 
 provide for :  19  (a) the notification of any place as a public place ; 
@@ -1605,10 +1605,10 @@ may provide that a breach thereof be punishable wit h fine which may extend to t
 fifty rupees. 
 (4) All rules made under this Act shall, as soon as  may be after they are made, be laid before the 
 State Legislature. 
-24. Act not to be in derogation of certain other Ac ts .ï¿½Nothing in this Act shall be construed to 
+24. Act not to be in derogation of certain other Ac ts .—Nothing in this Act shall be construed to 
 be in derogation of the provisions of the Reformato ry Schools Act, 1897 or any State Act 
 enacted in modification of the said Act or otherwis e, relating to juvenile offenders. 
-25. Repeal and savings .ï¿½(1) As from the date of th e coming into force in any State of the 
+25. Repeal and savings .—(1) As from the date of th e coming into force in any State of the 
 provisions other than Section 1 of this Act, all St ate Acts relating to suppression of immoral 
 traffic in persons or to the prevention of prostitu tion, in force in that State immediately before 
 such date shall stand repealed. 
@@ -1618,7 +1618,7 @@ made, any restriction imposed) under the provision of such State Act shall in so
 or action is not inconsistent with the provisions o f this Act be deemed to have been done or taken 
 under the provisions of this Act as if the said pro visions were in force when such thing was done  21  or such action was taken and shall continue in forc e accordingly until superseded by anything 
 done or any action taken under this Act. 
-Explanation.ï¿½In this section, the expression `State  Act `includes a `Provincial Act$. 
+Explanation.—In this section, the expression `State  Act `includes a `Provincial Act$. 
 THE SCHEDULE [See Section 2(c)] 
 Section Magistrate competent to exercise the powers  
 7(1) District Magistrate. 
@@ -1648,34 +1648,34 @@ ACT NO. 60 OF 1986
 An Act to prohibit indecent representation of women through advertisements or in publications, 
 writings, paintings, figures or in any other manner and for matters connected therewith or 
 incidental thereto . 
-BE it enacted by Parliament in the Thirty -seventh Year of the  Republic of India as follows: ï¿½ 
-1. Short title, extent and commencement .ï¿½(1) This Act may be called the Indecent Representation 
+BE it enacted by Parliament in the Thirty -seventh Year of the  Republic of India as follows: — 
+1. Short title, extent and commencement .—(1) This Act may be called the Indecent Representation 
 of Women (Prohibition) Act, 1986.  
 (2) It extends to the whole of India, except the State of Jammu and Kashmir.  
 (3) It shall come into force on such date1 as the Central Government may, by notification in the 
 Official Gazette, appoint.  
-2. Definitions .ï¿½In this Act, u nless t he context otherwise requires, ï¿½ 
-(a) ï¿½advertisement ï¿½ includes any notice, circular, label, wrapper or other document and also 
+2. Definitions .—In this Act, u nless t he context otherwise requires, — 
+(a) “advertisement ” includes any notice, circular, label, wrapper or other document and also 
 includes any visible representation made by means of any light, sound, smoke or gas;  
-(b) ï¿½distribution ï¿½ includes distribution by way of samples whether free or otherwise;  
-(c) ï¿½indecent representation of women ï¿½ means the depiction in any manner of the figure of a 
+(b) “distribution ” includes distribution by way of samples whether free or otherwise;  
+(c) “indecent representation of women ” means the depiction in any manner of the figure of a 
 woman, her form or body or any part thereof in such a way as to have the effect of being indecen t, or 
 derogatory to, or denigrating , women, or is likely to deprave, corrupt or injure the public morality or 
 morals;  
-(d) ï¿½labelï¿½ means any written, marked, stamped, printed or graphic matter, affixed to, or 
+(d) “label” means any written, marked, stamped, printed or graphic matter, affixed to, or 
 appearing upon, any package;  
-(e) ï¿½packageï¿½ inclu des a box, carton, tin or other container;  
-(f) ï¿½prescribed ï¿½ means prescribed by rules made under this Act.  
-3. Prohibition of advertisements containing indecent representation of women .ï¿½No person shall 
+(e) “package” inclu des a box, carton, tin or other container;  
+(f) “prescribed ” means prescribed by rules made under this Act.  
+3. Prohibition of advertisements containing indecent representation of women .—No person shall 
 publish, or cause to be published, or arrange or take part in the publication or exhibition of, any 
 advertisement which contains indecent representation of women in any form.  
 4. Prohibition of publication or sending by post of books, pamphlets, etc., containing indecent 
-representation of women .ï¿½No person shal l produce or cause to be produced, sell, let to hire, distribute, 
+representation of women .—No person shal l produce or cause to be produced, sell, let to hire, distribute, 
 circulate or send by post any book, pamphlet, paper, slide, film, writing, drawing, painting, photograph, 
 representation or figure which contains indecent representation of women in any form : 
-Provided that nothing in this section shall apply to ï¿½ 
+Provided that nothing in this section shall apply to — 
 (a) any book, pamphlet, paper, slide, film, writing, drawing, painting, photog raph, representation 
-or figureï¿½ 
+or figure— 
 (i) the publication of which is proved to be justified as being for the public good on the  
 ground that such book, pamphlet, paper, slide, film, writing, drawing, painting, photograph, 
 representation or figure is in the interest of science, literature, art, or learning or other objects of 
@@ -1685,16 +1685,16 @@ general concern; or
                                                            
 1. 2nd October, 1987, vide notification No  G.S.R. 821(E), dated 25th Septembe r, 1987,  see Gazette of India, Extraordinary,           
 Part II,  sec. 3( i). 2 
- (b) any representation sculptured, engraved, painted or otherwise represented on or in ï¿½ 
+ (b) any representation sculptured, engraved, painted or otherwise represented on or in — 
 (i) any ancient monument within the meaning of the Ancient Monument and Archaeological 
 Sites and Remains Act, 1958 (24 of 1958); or  
 (ii) any t emple, or on any car used for the conveyance of idols, or kept or used for any 
 religious purpose;  
 (c) any film in respect of which the provisions of Part II of the Cinematograph Act, 1952                 
 (37 of 1952), will be applicable.  
-5. Powers to enter  and search .ï¿½(1) Subject to such rules as may be prescribed, any Gazetted 
+5. Powers to enter  and search .—(1) Subject to such rules as may be prescribed, any Gazetted 
 Officer authorised by the State Government may, within the local limits of the area  for which he is so 
-authorised, ï¿½ 
+authorised, — 
 (a) enter and search at all reasonable times, with such assistance, if any, as he considers 
 necessary, any place in which he has reason to believe that an offence under this Act has been or is 
 being committed;  
@@ -1716,12 +1716,12 @@ to any search or seizure under this Act as they apply to any search or seizure m
 a warrant issued under section 94 of the said Code.  
 (3) Where any person seizes anything under clause ( b) or clause ( c) of sub -section ( 1), he shall, as 
 soon as may be, infor m the nearest Magistrate and take his orders as to the custody thereof.  
-6. Penalty .ï¿½Any person who contravenes the provisions of section 3 or section 4 shall be  punishable 
+6. Penalty .—Any person who contravenes the provisions of section 3 or section 4 shall be  punishable 
 on first conviction  with imprisonment of either description for a term which may extend to two years, and 
 with fine which may extend two thousand rupees , and in the event of a second or subsequent conviction 
 with imprisonment for a term of not less than six months but which may extend to five years and also 
 with a fine not less than ten thousand rupees but which may extend to one lakh rupees.  
-7. Offences by companies .ï¿½(1) Where an offence under this Act has been committed by a 
+7. Offences by companies .—(1) Where an offence under this Act has been committed by a 
 company, every person, who, at the time the offen ce was committed, was in charge of, and was 
 responsible to, the company for the conduct of the business of the company, as well as the company, shall 
 be deemed to be guilty of the offence and shall be liable to be proceeded against and punished 
@@ -1734,20 +1734,20 @@ committed by a company and it is proved that the offence has been committed with
 connivance of, or is attributable to any neglect on th e part of, any director, manager, secretary or other 3 
  officer of the company, such director, manager, secretary or other officer shall be proceeded against and 
 punished accordingly.  
-Explanation .ï¿½For the purposes of this sec tion,ï¿½ 
-(a) ï¿½companyï¿½ means any body corporate and includes a firm or other association of individuals; 
+Explanation .—For the purposes of this sec tion,— 
+(a) “company” means any body corporate and includes a firm or other association of individuals; 
 and 
-(b) ï¿½directorï¿½, in relation to a firm, means a partner in the firm . 
-8. Offences to be cognizable and bailable .ï¿½(1) Notwithstanding  anything contained in the Code of 
+(b) “director”, in relation to a firm, means a partner in the firm . 
+8. Offences to be cognizable and bailable .—(1) Notwithstanding  anything contained in the Code of 
 Criminal Procedure, 1973 (2 of 1974), an offence punishable under this Act shall be bailable.  
 (2) An offence punishable under this Act shall be cognizable.  
-9. Protection of action taken in good faith .ï¿½No suit, prosecution  or other legal proceeding shall lie 
+9. Protection of action taken in good faith .—No suit, prosecution  or other legal proceeding shall lie 
 against the Central Government or any State Government or any officer of the Central Government or any 
 State Government for anything which is in good faith done or intended to be done under this Act.  
-10. Power to make r ules.ï¿½(1) The Central Government may, by notification in the Official Gazette, 
+10. Power to make r ules.—(1) The Central Government may, by notification in the Official Gazette, 
 make rules to carry out the provisions of this Act.  
 (2) In particular and without prejudice to the generality of the foregoing power, such rules may 
-provide for all or any of the following matters, namely: ï¿½ 
+provide for all or any of the following matters, namely: — 
 (a) the manner in which the seizure of advertisements or other articles shall be made, and the 
 manner in which the seizure list shall be prepared and delivered to the person from whose custody 
 any advertisement or other articl e has been seized;  
@@ -1824,70 +1824,70 @@ ACT NO. 43 OF 2005
 An Act to provide for more effective protection of the rights of women guaranteed under the  
 Constitution who are victims of violence of any kind occurring within the family and 
 formatters connected therewith or incidental thereto.  
-BE it enacted by Parliament in the Fifty -sixth Year of th e Republic of India as follows: ï¿½ 
+BE it enacted by Parliament in the Fifty -sixth Year of th e Republic of India as follows: — 
 CHAPTER I  
 PRELIMINARY  
-1. Short title, extent  and commencement. ï¿½(1) This Act may be called the Protection of Women  
+1. Short title, extent  and commencement. —(1) This Act may be called the Protection of Women  
 from Domestic Violence Act, 2005.  
 (2) It extends to the whole of India except the State of Jammu and Kashmir.  
 (3) It shall come into force on such date1 as the Central Government may, by notification in the  
 Official Gazette, appoint.  
-2. Definitions. ï¿½In this Act, unless the context otherwise requires, ï¿½ 
-(a) ï¿½aggrieved person ï¿½ means any woman who is, or has been, in a domestic relationship with  
+2. Definitions. —In this Act, unless the context otherwise requires, — 
+(a) “aggrieved person ” means any woman who is, or has been, in a domestic relationship with  
 the respondent and who alleges to have been subjected to any act of domestic violence by the  
 respondent;  
-(b) ï¿½childï¿½ means any person below the age of eighteen years and includes any adopted, step or  
+(b) “child” means any person below the age of eighteen years and includes any adopted, step or  
 foster child;  
-(c) ï¿½compensation order ï¿½ means an order grante d in terms of section 22;  
-(d) ï¿½custody order ï¿½ means an order granted in terms of section 21;  
-(e) ï¿½domestic incident report ï¿½ means a report made in the prescribed form on receipt of a  
+(c) “compensation order ” means an order grante d in terms of section 22;  
+(d) “custody order ” means an order granted in terms of section 21;  
+(e) “domestic incident report ” means a report made in the prescribed form on receipt of a  
 complaint of domestic violence from an aggrieved person;  
-(f) ï¿½domestic re lationship ï¿½ means a relationship between two persons who live or have, at any  
+(f) “domestic re lationship ” means a relationship between two persons who live or have, at any  
 point of time, lived together in a shared household, when they are related by consanguinity,  marriage, 
 or through a relationship in the nature of marriage, adoption or are family  members  living together as 
 a joint family;  
-(g) ï¿½domestic violence ï¿½ has the same meaning as assigned to it in section 3;  
-(h) ï¿½dowryï¿½ shall have the same meaning as assigned to it in section 2 of the Dowry  Prohibition 
+(g) “domestic violence ” has the same meaning as assigned to it in section 3;  
+(h) “dowry” shall have the same meaning as assigned to it in section 2 of the Dowry  Prohibition 
 Act, 1961 (28 of 1961);  
-(i) ï¿½Magistrate ï¿½ means the Judicial Magistrate of the first class, or as the case may be, the  
+(i) “Magistrate ” means the Judicial Magistrate of the first class, or as the case may be, the  
 Metropolitan Magistrate, exercising jurisdiction under the Code of Criminal Procedure,                      
 1973(2 of 1974) in the area where the aggrieved person resides tempor arily or otherwise or the  
 respondent resides or the domestic violence is alleged to have taken place;  
-(j) ï¿½medical facility ï¿½ means such facility as may be notified by the State Government to be a  
+(j) “medical facility ” means such facility as may be notified by the State Government to be a  
 medical facility for the purposes of this Act;  
-(k) ï¿½monetary  reliefï¿½ means the compensation which the Magistrate may order the respondent  to 
+(k) “monetary  relief” means the compensation which the Magistrate may order the respondent  to 
 pay to the aggrieved person, at any stage during the hearing of an application seeking any  relief under 
 this Act, to meet the expenses incurred and the losses suffered by the aggrieved  person as a result of 
 the domestic violence;  
-(l) ï¿½notification ï¿½ means a notification published in the Official Gazette and the expression  
-ï¿½notifiedï¿½ shall be construed accordingly;  
-(m) ï¿½prescribed ï¿½ means prescribed by rules made under this Act;  
+(l) “notification ” means a notification published in the Official Gazette and the expression  
+“notified” shall be construed accordingly;  
+(m) “prescribed ” means prescribed by rules made under this Act;  
                                                            
 1. 26th October, 2006, vide notification No. S.O. 1776(E), dated by 17th October, 2006, see Gazette of India, Extraordinary, 
 Part II, sec. 3(ii). 4 
- (n) ï¿½Protection Officer ï¿½ means an officer appointed by the State Government under                    
+ (n) “Protection Officer ” means an officer appointed by the State Government under                    
 sub-section  (1) of section 8;  
-(o) ï¿½protection order ï¿½ means an order made in terms of section 18;  
-(p) ï¿½residence order ï¿½ means an order granted in terms of su b-section ( 1) of section 19;  
-(q) ï¿½respondent ï¿½ means any adult male person who is, or has been, in a domestic relationship  
+(o) “protection order ” means an order made in terms of section 18;  
+(p) “residence order ” means an order granted in terms of su b-section ( 1) of section 19;  
+(q) “respondent ” means any adult male person who is, or has been, in a domestic relationship  
 with the aggrieved person and against whom the aggrieved person has sought any relief under  this 
 Act: 
 Provided that an aggrieved wife or female living in a relationship in the nature of a marriage  may 
 also file a complaint against a relative of the husband or the male partner;  
-(r) ï¿½service provider ï¿½ means an entity registered under sub -section ( 1) of section 10;  
-(s) ï¿½shared household ï¿½ means a household where the person aggrieved lives or at any stage has  
+(r) “service provider ” means an entity registered under sub -section ( 1) of section 10;  
+(s) “shared household ” means a household where the person aggrieved lives or at any stage has  
 lived in a domestic relationship either singly or along with the respondent and includes such a  house  
 hold whether owned or tenanted either jointly by the aggrieved person and the  respond ent, or owned 
 or tenanted by either of them in respect of which either the aggrieved  person or the respondent or both 
 jointly or singly have any right, title, interest or equity and  includes such a household which may 
 belong to the joint family of which th e respondent is a  member, irrespective of whether the 
 respondent or the aggrieved person has any right, title or  interest in the shared household;  
-(t) ï¿½shelter home ï¿½ means any shelter home as may be notified by the State Government to be as  
+(t) “shelter home ” means any shelter home as may be notified by the State Government to be as  
 helter home for  the purposes of this Act.  
 CHAPTER II  
 DOMESTIC VIOLENCE  
-3. Definition of domestic violence. ï¿½For the purposes of this Act, any act, omission or  commission 
-or conduct of the respondent shall constitut e domestic violence in case it ï¿½ 
+3. Definition of domestic violence. —For the purposes of this Act, any act, omission or  commission 
+or conduct of the respondent shall constitut e domestic violence in case it — 
 (a) harms or injures or endangers the health, safety, life, limb or well -being, whether mental or  
 physical, of the aggrieved person or tends to do so and includes causing physical abuse, sexual  abuse, 
 verbal and emotional abuse and economic abuse; or  
@@ -1897,18 +1897,18 @@ security; or
 (c) has the effect of threatening the aggrieved person or any person related  to her by any  conduct 
 mentioned in clause ( a) or clause ( b); or 
 (d) otherwise injures or causes harm, whether physical or mental, to the aggrieved person.  
-Explanation  I.ï¿½For the purposes of this section, ï¿½ 
-(i) ï¿½physical abuse ï¿½ means any act or conduct which is of such a nature as to cause bodily 
+Explanation  I.—For the purposes of this section, — 
+(i) “physical abuse ” means any act or conduct which is of such a nature as to cause bodily 
 pain,  harm, or danger to life, limb, or health or impair the health or development of the aggrieved  
 person and includes assault, criminal intimidation and criminal force;  
-(ii) ï¿½sexual a buseï¿½ includes any conduct of a sexual nature that abuses, humiliates, degrades 
+(ii) “sexual a buse” includes any conduct of a sexual nature that abuses, humiliates, degrades 
 or otherwise violates the dignity of woman;  
-(iii) ï¿½verba l and emotional abuse ï¿½ includesï¿½ 
+(iii) “verba l and emotional abuse ” includes— 
 (a) insults, ridicule, humiliation, name calling and insults or ridicule specially with  regard 
 to not having a child or a male child; and  
 (b) repeated threats to cause physical pain to any person in whom the aggrieved person is  
 interested;  
-(iv) ï¿½economic abuse ï¿½ include sï¿½ 
+(iv) “economic abuse ” include s— 
 (a) deprivation of all or any economic or financial resources to which the aggrieved 
 person is  entitled under any law or custom whether payable under an order of a court or 
 otherwise or  which the aggrieved person requires out of necessity including, but not limited 5 
@@ -1923,20 +1923,20 @@ any other  property jointly or separately held by the aggrieved person; and
 (c) prohibition or restriction to continued access to resources or facilities which the 
 aggrieved  person is entitled to use or en joy by virtue of the domestic relationship including 
 access to the  shared household.  
-Explanation II.ï¿½For the purpose of determining whether any act, omission, commission or  conduct 
-of the respondent constitutes ï¿½domestic violence ï¿½ under this section, the overall facts  and circumstances 
+Explanation II.—For the purpose of determining whether any act, omission, commission or  conduct 
+of the respondent constitutes “domestic violence ” under this section, the overall facts  and circumstances 
 of the case shall be taken into consideration.  
 CHAPTER III  
 POWERS AND DUTIES OF  PROTECTION OFFICERS , SERVICE PROVIDERS, ETC. 
-4. Information to Protection Officer and exclu sion of liability of informa nt.ï¿½(1) Any person  
+4. Information to Protection Officer and exclu sion of liability of informa nt.—(1) Any person  
 who has reason to believe that an act of domestic violence has been, or is being, or is likely to  be 
 committed, may give information about it to the concerned Protection Officer.  
 (2) No liability, civil or criminal, shall be incurred by any person for giving in good faith of  
 information for the purpose of sub -section ( 1). 
-5. Duties of police officers, service providers and Magistrate .ï¿½A police officer, Protection  
+5. Duties of police officers, service providers and Magistrate .—A police officer, Protection  
 Officer, service provider or Magistrate who has received a complaint of domestic violence or is  otherwise 
 present at the place of an incident of domestic violence or when the incident of  domestic violence is 
-reported to him, sh all inform the aggrieved person ï¿½ 
+reported to him, sh all inform the aggrieved person — 
 (a) of her right to make an application for obtaining a relief by wa y of a protection order, an  order 
 for monetary relief, a custody order, a residence order, a compensation order or more  than one such 
 order under this Act;  
@@ -1948,14 +1948,14 @@ order under this Act;
 Provided that nothing in this Act shall be construed in any manner as to relieve a police officer  
 from his duty to proceed in accordance with law upon receipt of information as to the  commission of 
 a cognizable offence.  
-6. Duties of shelter homes .ï¿½If an aggrieved person or on her behalf a Protection Officer or a  service 
+6. Duties of shelter homes .—If an aggrieved person or on her behalf a Protection Officer or a  service 
 provider requests the person in charge of a shelter home to provide shelter to her, such  person in charge of 
 the shelter home shall provide shelter to the aggrieved person in the s helter  home.  
-7. Duties of medical facilities. ï¿½If an aggrieved person or, on her behalf a Protection Officer or a  
+7. Duties of medical facilities. —If an aggrieved person or, on her behalf a Protection Officer or a  
 service provider requests the person in charge of a medical facility to provide any medical aid  to her, such 
 person in charge of the medical facility shall provide medical aid to the aggrieved  person in the medical 
 facility.  
-8. Appo intment of Protection Officers. ï¿½(1) The State Government shall, by notification,  appoint 
+8. Appo intment of Protection Officers. —(1) The State Government shall, by notification,  appoint 
 such number of Protection Officers in each district as it may consider necessary and  shall also notify the 
 area or areas within which a Protection Officer shall exercise the powers  and perform the duties conferred 
 on him by or under this Act.  6 
@@ -1963,7 +1963,7 @@ on him by or under this Act.  6
 and experience as may be prescribed.  
 (3) The terms and conditions of service of the Protection Officer and the other officers  subordinate to 
 him shall be such as may be prescribed.  
-9. Duties and fu nctions of Protection Officers .ï¿½(1) It shal l be the  duty of the Protection Officer ï¿½ 
+9. Duties and fu nctions of Protection Officers .—(1) It shal l be the  duty of the Protection Officer — 
 (a) to assist the Magistrate in the discharge of his functions under this Act;  
 (b) to make a domestic incident report to the Magistrate, in such form and in such manner as  may 
 be prescribed, upon receipt of a complaint of domestic violence and forward copies  thereof to the 
@@ -1987,13 +1987,13 @@ accordance with the procedure prescribed under the Code of Criminal Procedure, 1
 (i) to perform such other duties as may be prescribed.  
 (2) The Protection Officer shall be under the control and supervision of the Magistrate, and  shall 
 perform the duties imposed on him by the Magistrate and the Gove rnment by, or under,  this Act.  
-10. Service providers. ï¿½(1) Subject to such rules as may be made in this behalf, any voluntary  
+10. Service providers. —(1) Subject to such rules as may be made in this behalf, any voluntary  
 association registered under the Societies Registration Act, 1860 (21 of 1860) or a company  registered 
 under the Companies Act, 195 6 (1 of 1956) or any other law for the time being in  force with the objective 
 of protecting the rights and interests of women by any lawful means  including providing of legal aid, 
 medical, financial or other assistance shall register itself with  the State Government as a service provider 
 for the purposes of this Act.  
-(2) A service provider registered under sub -section (1) shall have the power to ï¿½ 
+(2) A service provider registered under sub -section (1) shall have the power to — 
 (a) record the domestic incident report in the prescribed form if the aggrieved person so desires  
 and forward a copy thereof to the Magistrate and the Protection Officer having jurisdiction in  the area 
 where the domestic violence took place;  
@@ -2007,8 +2007,8 @@ the local limits of which the domestic violence took place.
 member of the service provider who is, or who is deemed to be, acting or purporting to act  under this Act, 
 for anything which is in good faith done or intended to be done in the exercise  of powers or discharge of 
 functions under this Act towards the prevention of the commission of  domestic violence.  7 
- 11. Duties of Government .ï¿½The Central Government and every State Government, shall take all  
-measures to ensure that ï¿½ 
+ 11. Duties of Government .—The Central Government and every State Government, shall take all  
+measures to ensure that — 
 (a) the provisions of this Act are given wide publicity through public media including the  
 television, radio and the print media at regular intervals;  
 (b) the Central Government and State Government officers including the police officers and the  
@@ -2021,7 +2021,7 @@ address issues of domestic violence is established and periodical review of the 
 this Act including the courts  are prepared and put in place.  
 CHAPTER IV  
 PROCEDURE FOR OBTAININGORDERS OF RELIEFS  
-12. Application to Magistrate. ï¿½(1) An aggrieved person or a Protection Officer or any other  person 
+12. Application to Magistrate. —(1) An aggrieved person or a Protection Officer or any other  person 
 on behalf of the aggrieved person may present an application to the Magistrate seeking  one or more 
 reliefs under this Act:  
 Provided that before passing any order on such application, the Magistrate shall take into  
@@ -2043,34 +2043,34 @@ be prescribed or as nearly as possible thereto.
 from the date of receipt of the application by the court.  
 (5) The Magistrate shall Endeavour to dispose of every application made under sub -section ( 1) within 
 a period of sixty days from  the date of its first hearing.  
-13. Service of notice. ï¿½(1) A notice of the date of hearing fixed under section 12 shall be given  by 
+13. Service of notice. —(1) A notice of the date of hearing fixed under section 12 shall be given  by 
 the Magistrate to the Protectio n Officer, who shall get it served by such means as may be  prescribed on 
 the respondent, and on any other person, as directed by the Magistrate within a  maximum period of two 
 days or such further reasonable time as may be allowed by the  Magistrate from the  date of its receipt.  
 (2) A declaration of service of notice made by the Protection Officer in such form as may be  
 prescribed shall be the proof that such notice was served upon the respondent and on any other  person as 
 directed by the Magistrate  unless th e contrary is proved.  
-14. Counse lling.ï¿½(1) The Magistrate may, at any stage of the proceedings under this Act, direct the 
+14. Counse lling.—(1) The Magistrate may, at any stage of the proceedings under this Act, direct the 
 respondent or  the aggrieved person, either singly or jointly, to undergo counselling with any member of a  
 service provider who possess  such qualifications and experience in counselling as may be  prescribed.  
 (2) Where the Magistrate has issued any direction under sub -section ( 1), he shall fix the next  date of 
 hearing of the case within a period not exceeding two months.  8 
- 15. Assistance of welfare expert .ï¿½In any proceeding under this Act, the Magistrate may secure  the 
+ 15. Assistance of welfare expert .—In any proceeding under this Act, the Magistrate may secure  the 
 services of such person, preferably a woman, whether related to the aggrieved person or  not, including a 
 person engaged in promoting family welfare as he thinks fit, for the pu rpose of  assisting him in 
 discharging his functions.  
-16. Pr oceedings to be held in camera. ï¿½If the Magistrate considers that the circumstances of the  
+16. Pr oceedings to be held in camera. —If the Magistrate considers that the circumstances of the  
 case so warrant, and if either party to the proceedings so desires, he may conduct the  proceedings under 
 this Act in camera . 
-17. Right t o reside in a shared household. ï¿½(1) Notwithstanding anything contained in any other  
+17. Right t o reside in a shared household. —(1) Notwithstanding anything contained in any other  
 law for the time being in force, every woman in a domestic relationship shall have the right to  reside in 
 the shared household, whether or not she has any right, title or beneficial interest in  the same.  
 (2) The aggrieved person shall not be evicted or excluded from the shared household or any  part of it 
 by the respondent save in accordance with th e procedure established by law.  
-18. Protection or ders.ï¿½The Magistrate may, after giving the aggrieved person and the  respondent 
+18. Protection or ders.—The Magistrate may, after giving the aggrieved person and the  respondent 
 an opportunity of being heard and on being prima facie  satisfied that domestic  violence has taken place or 
 is likely to take place, pass a protection order in favo ur of the  aggrieved person a nd prohibit the 
-respondent from ï¿½ 
+respondent from — 
 (a) committing any act of domestic violence;  
 (b) aiding or abetting in the commission of acts of domestic violence;  
 (c) entering the place of employment of the aggrieved person or, if the person aggrieved is a 
@@ -2084,8 +2084,8 @@ leave of the Magistrate;
 (f) causing violence to the dependants, other relatives or any person who give the aggrieved  
 person assistance from domestic violence;  
 (g) committing any other act as spe cified in the protection order.  
-19. Residence orders. ï¿½(1) While disposing of an application under sub -section ( 1) of section12, the 
-Magistrate may, on being satisfied that domestic violence has taken place, pass a  residence order ï¿½ 
+19. Residence orders. —(1) While disposing of an application under sub -section ( 1) of section12, the 
+Magistrate may, on being satisfied that domestic violence has taken place, pass a  residence order — 
 (a) restraining the respondent from dispossessing or in any other manner disturbing the  
 possession of the aggrieved person from the shared household, whether or not the respondent  has a 
 legal or equitable interest in the shared household;  
@@ -2119,10 +2119,10 @@ resources of the parties.
 Magistrate has been approached to assist in the implementation of the protection order.  
 (8) The Magistrate may direct the respondent to return to the possession of t he aggrieved  person her 
 stridhan  or any other property or valuable security to which she is entitled to.  
-20. Monetary reliefs .ï¿½(1) While disposing of an application under sub -section ( 1) of section 12,the 
+20. Monetary reliefs .—(1) While disposing of an application under sub -section ( 1) of section 12,the 
 Magistrate may direct the respondent to pay monetar y relief to meet the expenses incurred  and losses 
 suffered by the aggrieved person and any child of the aggrieved person as a result of  the domestic 
-violence and such relief m ay include, but not limited to, ï¿½ 
+violence and such relief m ay include, but not limited to, — 
 (a) the loss of earnings;  
 (b) the medical expenses;  
 (c) the loss caused due to the destruction, damage or removal of any property from the control  of 
@@ -2144,37 +2144,37 @@ sub-section ( 1), the Magistrate may direct the employer or a debtor of the resp
 the aggrieved person or to deposit with the court a portion of the wages or  salaries or debt due to or 
 accrued to the credit of the respondent, which amount may be  adjusted towards t he monetary relief 
 payable by the respondent.  
-21. Custody orders. ï¿½Notwithstanding anything contained in any other law for the time being in  
+21. Custody orders. —Notwithstanding anything contained in any other law for the time being in  
 force, the Magistrate may, at any stage of hearing of the application for protection order or for  any other 
 relief u nder this Act grant temporary custody of any child or children to the  aggrieved person or the 
 person making an application on her behalf and specify, if necessary,  the arrangements for visit of such 
 child or children by the respondent:  10 
  Provided that if the  Magistrate is of the opinion that any visit of the respondent may be harmful  to the 
 interests of the child or children, the Magistrate sh all refuse to allow such visit.  
-22. Compensation orders .ï¿½In addition to other reliefs as may be granted under this Act , the  
+22. Compensation orders .—In addition to other reliefs as may be granted under this Act , the  
 Magistrate may on an application being made by the aggrieved person, pass an order directing  the 
 respondent to pay compensation and damages for the injuries, including mental torture and  emotional 
 distress, caused by the acts of domestic violenc e com mitted by that respondent.  
-23. Power to grant interim and ex parte  orders .ï¿½(1) In any proceeding before him under this  Act, 
+23. Power to grant interim and ex parte  orders .—(1) In any proceeding before him under this  Act, 
 the Magistrate may pass such interim order as he deems just and proper.  
 (2) If the Magistrate is satisfied that an application prima  facie  discloses that the respondent is  
 committing, or has committed an act of domestic violence or that there is a likelihood that the  respondent 
 may commit an act of domestic violence, he may grant an ex parte  order on the  basis of the affidavit in 
 such form, as may be prescribed, of the aggrieved person under section18, section 19, section 20, section 
 21 or, as the case may be, sec tion 22 against the respondent.  
-24. Court to give copies of order free of cost. ï¿½The Magistrate shall, in all cases where he h as 
+24. Court to give copies of order free of cost. —The Magistrate shall, in all cases where he h as 
 passed any order under this Act, order that a copy of such order, shall be given free of cost, to  the parties 
 to the application, the police officer in -charge of the police station in the jurisdiction  of which the 
 Magistrate has been approached, and any  service provider located within the local  limits of the 
 jurisdiction of the court and if any service provider has registered a domestic  incident report, to that 
 service provider.  
-25. Duration and alteration of orders .ï¿½(1) A protection order made under section 18 shall be in  
+25. Duration and alteration of orders .—(1) A protection order made under section 18 shall be in  
 force till the aggrieved person applies for discharge.  
 (2) If the Magistrate, on receipt of an application from the aggrieved person or the respondent,  is 
 satisfied that there is a change in the circumstances requiring alteration, mo dification or  revocation of any 
 order made under this Act, he may, for reasons to be recorded in writing pass  such order, as he may deem 
 appropriate.  
-26. Relief in oth er suits and legal proceedings .ï¿½(1) Any relief available under sections 18, 19,20, 
+26. Relief in oth er suits and legal proceedings .—(1) Any relief available under sections 18, 19,20, 
 21 and  22 may also be sought in any legal proceeding, before a civil court, family court or  a criminal 
 court, affecting the aggrieved person and the respondent whether such proceeding  was initiated before or 
 after the commencement of this Act.  
@@ -2182,29 +2182,29 @@ after the commencement of this Act.
 relief that the aggrieved person may seek in such suit or legal proceeding before a civil or  criminal court.  
 (3) In case any relief has been obtained by the aggrieved per son in any proceedings other than  a 
 proceeding under this Act, she shall be bound to inform the Magistrate of the grant of such  relief . 
-27. Jurisdiction .ï¿½(1) The court of Judicial Magistrate of the first class or the Metropolitan  
-Magistrate, as the case ma y be, w ithin the local limits of which ï¿½ 
+27. Jurisdiction .—(1) The court of Judicial Magistrate of the first class or the Metropolitan  
+Magistrate, as the case ma y be, w ithin the local limits of which — 
 (a) the person aggrieved permanently or temporarily resides or carries on business or is  
 employed; or  
 (b) the respondent resides or carries on business or is employed; or  
 (c) the cause of action has arisen,  shall be the competent court to grant a protection order and 
 other orders under this Act and to  try offences under this Act.  
 (2) Any order made under this Act shall be enforceable throughout India.  
-28. Procedure .ï¿½(1) Save as otherwise provided in this Act, all proc eedings under sections 12,18,      
+28. Procedure .—(1) Save as otherwise provided in this Act, all proc eedings under sections 12,18,      
 19, 20, 21, 22 and 23 and offences under section 31 shall be governed by the provisions of  the Code of 
 Criminal Procedure, 1973 (2 of 1974).  
 (2) Nothing in sub -section ( 1) shall prevent the court from laying down its own procedure for  disposal 
 of an application under section 12 or under  sub-section ( 2) of section 23.  11 
- 29. Appeal. ï¿½There shall lie an appeal to the Court of Session within thirty days from the date  on 
+ 29. Appeal. —There shall lie an appeal to the Court of Session within thirty days from the date  on 
 which the order made by the Magistrate is served on the aggr ieved person or the respondent,  as the case 
 may be, whichever is later.  
 CHAPTER V  
 MISCELLANEOUS  
-30. Protection Officers and members of service p roviders to be public servants .ï¿½The Protection  
+30. Protection Officers and members of service p roviders to be public servants .—The Protection  
 Officers and members of service providers, while acting or purporting to act in pursuance of  any of the 
 provisions of this Act or any rules or orders made thereunder shall be deemed to be  public servants within 
 the meaning of section 21 of the Indian Penal Code (45 of 1860).  
-31. Penalty for breach of protection or der by respondent. ï¿½(1) A breach of protection order, or  of 
+31. Penalty for breach of protection or der by respondent. —(1) A breach of protection order, or  of 
 an interim protection order, by the respondent shall be an offence under this Act and shall be  punishable 
 with imprisonment of either description for a term which may extend to one year,  or with fi ne which may 
 extend to twenty thousand rupees, or with both.  
@@ -2214,27 +2214,27 @@ passed the order, the breach of which has been alleged to have been caused by th
 498A of the Indian Penal Code (45 of 1860) or any other provision of that Code or the  Dowry Prohibition 
 Act, 1961 (28 of 1961), as the case may be, if the fac ts disclose the  commission of an offence under those 
 provisions.  
-32. Cognizance and proof .ï¿½(1) Notwithstanding anything contained in the Code of Criminal  
+32. Cognizance and proof .—(1) Notwithstanding anything contained in the Code of Criminal  
 Procedure, 1973 (2 of 1974), the offence under sub -section ( 1) of section 31 shall be  cognizable and                  
 non-bailable.  
 (2) Upon the sole testimony of the aggrieved person, the court may conclude that an offence  under 
 sub-section ( 1) of section 31 has been committed by the accused.  
-33. Penalty for not discharg ing duty by Protection Officer. ï¿½If any Protection Officer fails or  
+33. Penalty for not discharg ing duty by Protection Officer. —If any Protection Officer fails or  
 refuses to discharge his duties as directed by the Magistrate in the protection order without any  sufficient 
 cause, he shall be punished with imprisonment of either description for a term which  may extend to one 
 year, or wit h fine which may extend to twenty thousand rupees, or with  both.  
-34. Cognizance of offence c ommitted by Protection Officer .ï¿½No prosecution or other legal  
+34. Cognizance of offence c ommitted by Protection Officer .—No prosecution or other legal  
 proceeding shall lie against the Protection Officer unless a complaint is filed with the previous  sanction of 
 the State Government or an officer authorised by it in this behalf.  
-35. Protection of action taken in good faith .ï¿½No suit, prosecution or other legal proceeding shall  
+35. Protection of action taken in good faith .—No suit, prosecution or other legal proceeding shall  
 lie against the Protection Officer for any damage caused or likely to be caused by anything  which is in 
 good faith done or intended to be done under this Act or any rule or order made  thereunder.  
-36. Act not in derogation of any other law. ï¿½The provisions of this Act shall be in addition to,  and 
+36. Act not in derogation of any other law. —The provisions of this Act shall be in addition to,  and 
 not in derogation of the provisions of a ny other law, for the time being in force.  
-37. Power of Ce ntral Government to make rules. ï¿½(1) The Central Government may, by  
+37. Power of Ce ntral Government to make rules. —(1) The Central Government may, by  
 notification, make rules for carrying out the provisions of this Act.  
 (2) In particular, and without prejudice to the generality of  the foregoing power, such rules may  
-provide for all or any of  the following matters, namely: ï¿½ 
+provide for all or any of  the following matters, namely: — 
 (a) the qualifications and experience which a Protection Officer shall possess under                              
 sub-section  (2) of section 8;  
 (b) the terms and  conditions of service of the Protection Officers and the other officers  
